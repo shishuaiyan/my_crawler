@@ -1,0 +1,2659 @@
+Counter: 1
+url: http://sz.xiaozhu.com/fangzi/36570959903.html
+title: 龙华公园/深圳北站/清湖地铁旁温馨2居
+address: 广东省深圳市龙华区和平东路46号金凤凰豪苑小区
+price: 368
+img: https://image.xiaozhustatic1.com/21/15,0,61,32704,1077,1386,b4dc7aa6.jpg
+name: 是你的甜甜儿
+sex: 女
+
+Counter: 2
+url: http://sz.xiaozhu.com/fangzi/33282594003.html
+title: 小清新复式 南山中心/深圳湾口岸/南油批发城
+address: 广东省深圳市南山区南新路与东滨路交汇
+price: 488
+img: https://image.xiaozhustatic1.com/21/13,0,28,30537,414,414,aed2c977.jpg
+name: 蛋蛋的家
+sex: 女
+
+Counter: 3
+url: http://sz.xiaozhu.com/fangzi/36568672503.html
+title: 福田口岸地铁/会展中心旁高端一居室
+address: 广东省深圳市福田区福田保税区加福广场小区
+price: 368
+img: https://image.xiaozhustatic1.com/21/15,0,61,32704,1077,1386,b4dc7aa6.jpg
+name: 是你的甜甜儿
+sex: 女
+
+Counter: 4
+url: http://sz.xiaozhu.com/fangzi/32780999703.html
+title: 【尤物】繁华地段东门万象城附近浪漫公寓
+address: 广东省深圳市罗湖区解放路港岛银座
+price: 348
+img: https://image.xiaozhustatic1.com/21/13,0,16,378,329,329,0e2930cd.jpg
+name: Zofee
+sex: 女
+
+Counter: 5
+url: http://sz.xiaozhu.com/fangzi/37158006603.html
+title: 深圳北站九方红山地铁口直通福田口岸精致两房
+address: 广东省深圳市龙华区天英街与腾龙路交叉口
+price: 468
+img: https://image.xiaozhustatic1.com/21/14,0,2,1682,375,376,5a132d30.jpg
+name: Miss三次方｜Y
+sex: 女
+
+Counter: 6
+url: http://sz.xiaozhu.com/fangzi/24221416803.html
+title: 福田中心高尔夫球场的趣园，会展中心，购物公园
+address: 广东省深圳市福田区滨河大道9172号趣园公寓
+price: 388
+img: https://image.xiaozhustatic1.com/21/13,0,22,27572,329,329,b87d1171.jpg
+name: 荷你相遇
+sex: 女
+
+Counter: 7
+url: http://sz.xiaozhu.com/fangzi/33627381503.html
+Counter: 8
+url: http://sz.xiaozhu.com/fangzi/32420592903.html
+title: 【憩居】地王京基100罗湖口岸大剧院地铁站
+address: 广东省深圳市罗湖区地王大厦、京基旁边名仕阁B座...
+price: 328
+img: https://image.xiaozhustatic1.com/21/16,0,29,39244,364,363,97bb938a.jpg
+name: 梵旮
+sex: 女
+
+Counter: 9
+url: http://sz.xiaozhu.com/fangzi/20401506403.html
+title: 皇岗口岸*福田口岸*会展中心*新装大床房整租
+address: 广东省深圳市福田区福田南路皇御苑
+price: 359
+img: https://image.xiaozhustatic1.com/21/10,0,3,20015,329,329,e1693919.jpg
+name: 肖扬_S
+sex: 男
+
+Counter: 10
+url: http://sz.xiaozhu.com/fangzi/32640649903.html
+title: 粉粉复式 近深圳湾口岸/南油批发/来福士商场
+address: 广东省深圳市南山区东滨路与南新路交汇
+price: 488
+img: https://image.xiaozhustatic1.com/21/13,0,28,30537,414,414,aed2c977.jpg
+name: 蛋蛋的家
+sex: 女
+
+Counter: 11
+url: http://sz.xiaozhu.com/fangzi/24205514603.html
+title: 自在家／一室一厅/近布吉深圳东站木棉湾地铁站
+address: 广东省深圳市龙岗区布吉南兴路1983创意小镇优趣...
+price: 268
+img: https://image.xiaozhustatic1.com/21/12,0,6,13219,329,329,69f0c285.jpg
+name: lijing824X
+sex: 女
+
+Counter: 12
+url: http://sz.xiaozhu.com/fangzi/27506409803.html
+title: 近深圳东站/木棉湾地铁站/微时光整租公寓
+address: 广东省深圳市龙岗区南岭1983创意小镇
+price: 268
+img: https://image.xiaozhustatic1.com/21/14,0,22,1987,315,316,a640fbc1.jpg
+name: 霸氣小肥鹅
+sex: 男
+
+Counter: 13
+url: http://sz.xiaozhu.com/fangzi/31235503203.html
+title: 万象城/KKMALL/东门/金光华/网红民宿
+address: 广东省深圳市福田区御河堤c座
+price: 378
+img: https://image.xiaozhustatic1.com/21/15,0,13,28642,376,375,2f70f080.jpg
+name: 在这个城市遇见你
+sex: 女
+
+Counter: 14
+url: http://sz.xiaozhu.com/fangzi/9207976363.html
+title: 购物公园/会展中心附近豪装公寓适合旅游/商务
+address: 广东省深圳市福田区新洲十一街嘉洲富苑C座
+price: 568
+img: https://image.xiaozhustatic1.com/21/12,0,26,2780,329,329,4d263771.jpg
+name: 云云小屋
+sex: 女
+
+Counter: 15
+url: http://sz.xiaozhu.com/fangzi/32651451903.html
+title: 近深圳北双地铁口楼下购物中心花园主题大床房
+address: 广东省深圳市龙华区星河盛世
+price: 358
+img: https://image.xiaozhustatic1.com/21/14,0,59,4217,329,329,aee980d9.jpg
+name: ga菠萝
+sex: 女
+
+Counter: 16
+url: http://sz.xiaozhu.com/fangzi/5076261514.html
+title: 超低价 近罗湖口岸火车站 国贸东门温馨两居
+address: 广东省深圳市罗湖区春风路
+price: 358
+img: https://image.xiaozhustatic1.com/21/6,0,71,3965,228,228,2270510b.jpg
+name: 阿黛家
+sex: 女
+
+Counter: 17
+url: http://sz.xiaozhu.com/fangzi/35925139603.html
+title: 【麓湾】海上世界/自贸大厦/蛇口港水湾地铁站
+address: 广东省深圳市南山区水湾1979
+price: 328
+img: https://image.xiaozhustatic1.com/21/16,0,29,39244,364,363,97bb938a.jpg
+name: 梵旮
+sex: 女
+
+Counter: 18
+url: http://sz.xiaozhu.com/fangzi/31011388003.html
+title: 福田中心区 景田北 May理想之家 简欧风格
+address: 广东省深圳市福田区香梅北七街公馆
+price: 328
+img: https://image.xiaozhustatic1.com/21/14,0,83,5907,260,260,f9d5a416.jpg
+name: 吗哪manna
+sex: 女
+
+Counter: 19
+url: http://sz.xiaozhu.com/fangzi/31770932203.html
+title: 皇岗+福田口岸/会展中心首套可口可乐收藏民宿
+address: 广东省深圳市福田区福强路1031号福民大厦
+price: 658
+img: https://image.xiaozhustatic1.com/21/16,0,66,345,260,260,ac003bf2.jpg
+name: 可乐迷
+sex: 男
+
+Counter: 20
+url: http://sz.xiaozhu.com/fangzi/26015611303.html
+title: 地铁4号线福民站旁阳光充沛星鹿主题大床房整租
+address: 广东省深圳市福田区皇岗公园·一街
+price: 328
+img: https://image.xiaozhustatic1.com/21/12,0,48,26332,363,363,82af22cd.jpg
+name: 捷静主張
+sex: 男
+
+Counter: 21
+url: http://sz.xiaozhu.com/fangzi/9060556963.html
+title: 临近福田/皇岗口岸地铁站 望香港 落地窗
+address: 广东省深圳市福田区福田区福田口岸金地名津
+price: 447
+img: https://image.xiaozhustatic1.com/21/10,0,27,3348,330,329,6ae7fbff.jpg
+name: RANXL
+sex: 女
+
+Counter: 22
+url: http://sz.xiaozhu.com/fangzi/30655183803.html
+title: 罗湖口岸/火车站/东门/国贸欧式精装修2居室
+address: 广东省深圳市罗湖区人民南路3003号海丰苑大厦
+price: 538
+img: https://image.xiaozhustatic1.com/21/12,0,18,27555,260,260,53229ec0.jpg
+name: 赵先生8333
+sex: 男
+
+Counter: 23
+url: http://sz.xiaozhu.com/fangzi/11040655360.html
+title: 较场尾金沙湾海滨假日广场公寓大床山景房花园
+address: 广东省深圳市大鹏新区迎宾路佳兆业假日广场
+price: 300
+img: https://image.xiaozhustatic1.com/21/12,0,33,2293,363,363,dc9f3e8c.jpg
+name: 大鹏金沙湾
+sex: 女
+
+Counter: 24
+url: http://sz.xiaozhu.com/fangzi/33656525103.html
+title: 火车站/罗湖口岸/国贸/东门欧式精装两居室
+address: 广东省深圳市罗湖区人民南路3003号海丰苑大厦
+price: 538
+img: https://image.xiaozhustatic1.com/21/12,0,18,27555,260,260,53229ec0.jpg
+name: 赵先生8333
+sex: 男
+
+Counter: 25
+url: http://sz.xiaozhu.com/fangzi/30338947403.html
+title: 世界之窗欢乐谷科技园景观高层两卧室
+address: 广东省深圳市南山区沙河世纪假日广场
+price: 498
+img: https://image.xiaozhustatic1.com/21/13,0,53,28325,363,363,aa8dfebd.jpg
+name: 欢乐驿站
+sex: 女
+
+Counter: 26
+url: http://sz.xiaozhu.com/fangzi/37753226801.html
+title: 阳光卧室带独立洗手间，深圳北站，地铁，合租
+address: 广东省深圳市龙华区龙华九方购物中心旁 18plus公...
+price: 228
+img: https://image.xiaozhustatic1.com/21/10,0,60,8949,260,260,89d6fe0b.jpg
+name: 植意间
+sex: 男
+
+Counter: 27
+url: http://sz.xiaozhu.com/fangzi/2914834563.html
+title: (特惠)地铁口私家花园内整套绿色清新居家小筑
+address: 广东省深圳市龙岗区布吉大芬怡康家园
+price: 268
+img: https://image.xiaozhustatic1.com/21/6,0,71,3965,228,228,2270510b.jpg
+name: 阿黛家
+sex: 女
+
+Counter: 28
+url: http://sz.xiaozhu.com/fangzi/29358863603.html
+title: 科技园/高新园地铁口两室一厅高层城景美屋
+address: 广东省深圳市南山区大冲新城花园2栋2D
+price: 458
+img: https://image.xiaozhustatic1.com/21/12,0,4,12299,296,297,617b2d42.jpg
+name: Kevin福尔摩猪
+sex: 男
+
+Counter: 29
+url: http://sz.xiaozhu.com/fangzi/32262162303.html
+title: 香蕉宿#景田地铁近卓越汇市民、会展中心两房
+address: 广东省深圳市福田区万托家园
+price: 599
+img: https://image.xiaozhustatic1.com/21/11,0,97,10414,414,415,0ed1440a.jpg
+name: 香蕉宿小助手
+sex: 男
+
+Counter: 30
+url: http://sz.xiaozhu.com/fangzi/29892108103.html
+title: 【森小林】宝体地铁口/近机场/敞亮两房
+address: 广东省深圳市宝安区花样年花郡
+price: 368
+img: https://image.xiaozhustatic1.com/21/13,0,10,9662,283,283,de60a12b.jpg
+name: 任可爱
+sex: 女
+
+Counter: 31
+url: http://sz.xiaozhu.com/fangzi/11461762460.html
+title: 较场尾金沙湾海滨假日广场公寓大床家庭房4人住
+address: 广东省深圳市大鹏新区迎宾路与岭南街佳兆业假日...
+price: 369
+img: https://image.xiaozhustatic1.com/21/12,0,33,2293,363,363,dc9f3e8c.jpg
+name: 大鹏金沙湾
+sex: 女
+
+Counter: 32
+url: http://sz.xiaozhu.com/fangzi/31459990803.html
+title: 国贸/东门/罗湖口岸/火车站欧式精装修两居室
+address: 广东省深圳市罗湖区人民南路3003号海丰苑大厦
+price: 538
+img: https://image.xiaozhustatic1.com/21/12,0,18,27555,260,260,53229ec0.jpg
+name: 赵先生8333
+sex: 男
+
+Counter: 33
+url: http://sz.xiaozhu.com/fangzi/31084385603.html
+title: 【星空】繁荣热闹地段东门老街神秘幽静公寓
+address: 广东省深圳市罗湖区港岛银座
+price: 348
+img: https://image.xiaozhustatic1.com/21/13,0,16,378,329,329,0e2930cd.jpg
+name: Zofee
+sex: 女
+
+Counter: 34
+url: http://sz.xiaozhu.com/fangzi/31648597801.html
+title: 近深圳东站/木棉湾地铁站/一小窝
+address: 广东省深圳市龙岗区南岭1983创意小镇
+price: 268
+img: https://image.xiaozhustatic1.com/21/14,0,22,1987,315,316,a640fbc1.jpg
+name: 霸氣小肥鹅
+sex: 男
+
+Counter: 35
+url: http://sz.xiaozhu.com/fangzi/32703445603.html
+title: 南山世界之窗欢乐谷华侨城1号线白石洲二居整租
+address: 广东省深圳市南山区中海湾畔花园
+price: 598
+img: https://image.xiaozhustatic1.com/21/14,0,55,24650,260,260,1b34b125.jpg
+name: 三哥不胖
+sex: 男
+
+Counter: 36
+url: http://sz.xiaozhu.com/fangzi/35879479803.html
+title: 罗湖口岸火车站国贸东门双地铁夜景北欧精致一房
+address: 广东省深圳市罗湖区新银座大厦B座
+price: 339
+img: https://image.xiaozhustatic1.com/21/15,0,43,30153,375,376,dd33ee0d.jpg
+name: Lcici
+sex: 女
+
+Counter: 37
+url: http://sz.xiaozhu.com/fangzi/25188866403.html
+title: 宝安中心 宝体 壹方城 东南朝向温馨小家2
+address: 广东省深圳市宝安区新湖路泰华君逸世家
+price: 338
+img: https://image.xiaozhustatic1.com/21/13,0,87,10434,329,329,3f33d024.jpg
+name: 新力创
+sex: 女
+
+Counter: 38
+url: http://sz.xiaozhu.com/fangzi/37193819903.html
+title: 福田口岸*皇岗口岸*会展中心精装高层一室一厅
+address: 广东省深圳市福田区新洲三街
+price: 368
+img: https://image.xiaozhustatic1.com/21/16,0,21,8814,132,132,6419c24b.jpg
+name: aaaaa拾光
+sex: 女
+
+Counter: 39
+url: http://sz.xiaozhu.com/fangzi/1970125171.html
+title: 大新地铁站复式大房｜1.8米床 独立阳台景观
+address: 广东省深圳市南山区海路与学府路交汇处
+price: 206
+img: https://image.xiaozhustatic1.com/21/6,0,95,2274,260,260,5f335665.jpg
+name: 大虾zzz
+sex: 女
+
+Counter: 40
+url: http://sz.xiaozhu.com/fangzi/36523139403.html
+title: 深圳北民乐地铁站直达福田口岸超大温馨两房
+address: 广东省深圳市龙华区新区大道2号梅龙阁A栋
+price: 408
+img: https://image.xiaozhustatic1.com/21/16,0,73,1985,229,229,012a7d39.jpg
+name: 飘逸的芸
+sex: 女
+
+Counter: 41
+url: http://sz.xiaozhu.com/fangzi/30944909903.html
+title: 【宝安中心双地铁5分钟】北欧风高档复式公寓
+address: 广东省深圳市宝安区创业一路富通好旺角
+price: 358
+img: https://image.xiaozhustatic1.com/21/8,0,80,8306,260,260,77a1de69.jpg
+name: juliet鑫媛
+sex: 女
+
+Counter: 42
+url: http://sz.xiaozhu.com/fangzi/34813221503.html
+title: 民宿中的希尔顿/蛇口海上世界180平海滨豪宅
+address: 广东省深圳市南山区伍兹公寓
+price: 1880
+img: https://image.xiaozhustatic1.com/21/16,0,5,21098,364,363,178e4d5a.jpg
+name: M7精品民宿
+sex: 女
+
+Counter: 43
+url: http://sz.xiaozhu.com/fangzi/31386554403.html
+title: 【新上特惠】福田口岸 会展中心 花涧一居室
+address: 广东省深圳市福田区晨晖家园
+price: 318
+img: https://image.xiaozhustatic1.com/21/12,0,75,13289,414,414,764f5ef9.jpg
+name: 鱼舍
+sex: 男
+
+Counter: 44
+url: http://sz.xiaozhu.com/fangzi/38132741601.html
+title: F深圳北 华为 五和地铁站 北欧温馨大床房
+address: 广东省深圳市龙岗区吉发路佳华领汇广场小区
+price: 138
+img: https://image.xiaozhustatic1.com/21/13,0,78,11754,329,330,7a1101f8.jpg
+name: 爱晒太阳滴鱼
+sex: 男
+
+Counter: 45
+url: http://sz.xiaozhu.com/fangzi/3369106629.html
+title: 东门老街/罗湖口岸/提前10天预订享9折
+address: 广东省深圳市罗湖区东门中路2112号缤纷时代家园
+price: 498
+img: https://image.xiaozhustatic1.com/21/15,0,10,22751,260,260,6e825a75.jpg
+name: 悠家猫窝
+sex: 女
+
+Counter: 46
+url: http://sz.xiaozhu.com/fangzi/26539981603.html
+title: 金光华东门香港零距离的投影仪精致居居两房
+address: 广东省深圳市罗湖区湖心大厦
+price: 499
+img: https://image.xiaozhustatic1.com/21/13,0,80,10589,330,329,4a2cc9a6.jpg
+name: LostIn
+sex: 女
+
+Counter: 47
+url: http://sz.xiaozhu.com/fangzi/36569517603.html
+title: 地铁站1号线/4号线豪华公寓整租
+address: 广东省深圳市福田区彩田路星河世纪
+price: 428
+img: https://image.xiaozhustatic1.com/21/15,0,61,32704,1077,1386,b4dc7aa6.jpg
+name: 是你的甜甜儿
+sex: 女
+
+Counter: 48
+url: http://sz.xiaozhu.com/fangzi/2010136170.html
+title: 大新地铁站豪华复式公寓单人房
+address: 广东省深圳市南山区海路与学府路交汇处
+price: 146
+img: https://image.xiaozhustatic1.com/21/6,0,95,2274,260,260,5f335665.jpg
+name: 大虾zzz
+sex: 女
+
+Counter: 49
+url: http://sz.xiaozhu.com/fangzi/8961184763.html
+title: 【M7精品民宿】7近深圳湾口岸北欧温馨两居
+address: 广东省深圳市南山区前海路泛海城市广场A座
+price: 488
+img: https://image.xiaozhustatic1.com/21/16,0,5,21098,364,363,178e4d5a.jpg
+name: M7精品民宿
+sex: 女
+
+Counter: 50
+url: http://sz.xiaozhu.com/fangzi/17515627903.html
+title: 岗厦·会展中心.高档公寓，1.8米大床房
+address: 广东省深圳市福田区彩田路3069号
+price: 388
+img: https://image.xiaozhustatic1.com/21/10,0,1,15429,414,415,18467557.jpg
+name: sunnyQin
+sex: 女
+
+Counter: 51
+url: http://sz.xiaozhu.com/fangzi/12413723402.html
+title: 金沙湾假日广场南北通透山麓海景大床公寓
+address: 广东省深圳市大鹏新区迎宾路佳兆业假日广场1栋2...
+price: 328
+img: https://image.xiaozhustatic1.com/21/10,0,19,16400,247,247,86b0a12b.jpg
+name: 大鹏_较场尾
+sex: 女
+
+Counter: 52
+url: http://sz.xiaozhu.com/fangzi/32851631903.html
+title: 全手工布朗主题·麋鹿家2.0
+address: 广东省深圳市南山区南光城市花园创业路
+price: 458
+img: https://image.xiaozhustatic1.com/21/9,0,24,4930,329,329,d25ffcc9.jpg
+name: 侨澜先森
+sex: 男
+
+Counter: 53
+url: http://sz.xiaozhu.com/fangzi/16294957703.html
+title: 科技园西丽 商务一房一厅 含网球场
+address: 广东省深圳市宝安区留仙二路中粮商务公园
+price: 338
+img: https://tfsimg.alipay.com/images/partner/T1EqXeXj48XXXXXXXX
+name: 常佳佳
+sex: 男
+
+Counter: 54
+url: http://sz.xiaozhu.com/fangzi/23696126203.html
+title: H近世界之窗大新地铁投影大屏客厅现代温馨两房
+address: 广东省深圳市南山区前海路新德家园DB栋
+price: 488
+img: https://image.xiaozhustatic1.com/21/16,0,5,21098,364,363,178e4d5a.jpg
+name: M7精品民宿
+sex: 女
+
+Counter: 55
+url: http://sz.xiaozhu.com/fangzi/32356550403.html
+title: 世界之窗欢乐谷华侨城白石洲地铁站精致两房两厅
+address: 广东省深圳市南山区沙河街15号侨城豪苑
+price: 548
+img: https://image.xiaozhustatic1.com/21/14,0,2,1682,375,376,5a132d30.jpg
+name: Miss三次方｜Y
+sex: 女
+
+Counter: 56
+url: http://sz.xiaozhu.com/fangzi/7980344716.html
+title: 前海青青世界深大附中依山伴海88平静雅大两房
+address: 广东省深圳市南山区前海路佳兆业前海广场
+price: 528
+img: https://image.xiaozhustatic1.com/21/13,0,68,17665,698,698,06c2fce6.jpg
+name: 玖月蓝风
+sex: 男
+
+Counter: 57
+url: http://sz.xiaozhu.com/fangzi/26279269203.html
+title: 橙CC公寓-1/深圳湾/蛇口港/近香港/复式
+address: 广东省深圳市南山区南新路与东滨路交汇处阳光科...
+price: 488
+img: https://image.xiaozhustatic1.com/21/13,0,91,14619,364,363,7b8bcc13.jpg
+name: 橙CiCi
+sex: 女
+
+Counter: 58
+url: http://sz.xiaozhu.com/fangzi/31374494701.html
+title: 罗湖口岸东门国贸双地铁口设计师精致一房一厅
+address: 广东省深圳市罗湖区沿河南路1025号
+price: 388
+img: https://image.xiaozhustatic1.com/21/14,0,2,1682,375,376,5a132d30.jpg
+name: Miss三次方｜Y
+sex: 女
+
+Counter: 59
+url: http://sz.xiaozhu.com/fangzi/24099591101.html
+title: 南山科技园大冲新城花园超棒少女心新房-幻想
+address: 广东省深圳市南山区铜鼓路大冲新城花园2栋1c
+price: 399
+img: https://image.xiaozhustatic1.com/21/12,0,43,14385,375,376,4e0981cb.jpg
+name: Ritading
+sex: 女
+
+Counter: 60
+url: http://sz.xiaozhu.com/fangzi/25147297603.html
+title: 布吉双地铁换乘站／深圳北站／罗湖口岸温馨公寓
+address: 广东省深圳市龙岗区布吉街道深惠路佳兆业大都汇
+price: 308
+img: https://image.xiaozhustatic1.com/21/11,0,74,9872,375,376,15d618d9.jpg
+name: 思思L
+sex: 女
+
+Counter: 61
+url: http://sz.xiaozhu.com/fangzi/27954715703.html
+title: 【寓荐】南山桃园深大北欧简约风格一房一厅
+address: 广东省深圳市南山区前海金岸金硕阁
+price: 338
+img: https://image.xiaozhustatic1.com/21/13,0,76,8303,260,260,48e880ec.jpg
+name: 寓荐民宿
+sex: 女
+
+Counter: 62
+url: http://sz.xiaozhu.com/fangzi/2799206263.html
+title: 今晚特价！近会展中心福田及皇岗口岸一房
+address: 广东省深圳市福田区厦北合正佳园
+price: 398
+img: https://image.xiaozhustatic1.com/21/8,0,99,11458,260,260,819b9452.jpg
+name: carrie圆圆
+sex: 女
+
+Counter: 63
+url: http://sz.xiaozhu.com/fangzi/20552309603.html
+title: 布吉中心区双地铁、近深圳北站、罗湖温馨公寓
+address: 广东省深圳市龙岗区布吉街道深惠路佳兆业大都汇
+price: 308
+img: https://image.xiaozhustatic1.com/21/11,0,74,9872,375,376,15d618d9.jpg
+name: 思思L
+sex: 女
+
+Counter: 64
+url: http://sz.xiaozhu.com/fangzi/30517735403.html
+title: 福田口岸零距离阳光舒适两居室整租
+address: 广东省深圳市福田区金地名津
+price: 478
+img: https://image.xiaozhustatic1.com/21/13,0,11,18010,186,186,f7ee9189.jpg
+name: 吖Dee
+sex: 男
+
+Counter: 65
+url: http://sz.xiaozhu.com/fangzi/29599920403.html
+title: 小清新靠香港福田口岸会展中心阳光舒适大床房
+address: 广东省深圳市福田区皇岗公园六街晨晖家园
+price: 268
+img: https://image.xiaozhustatic1.com/21/13,0,31,29202,260,260,ac08eda8.jpg
+name: 尚寓小寓
+sex: 男
+
+Counter: 66
+url: http://sz.xiaozhu.com/fangzi/20143204403.html
+title: 【东门老街温馨舒适】fxy猪猪窝
+address: 广东省深圳市罗湖区深南东路2118号港澳8号
+price: 268
+img: https://image.xiaozhustatic1.com/21/10,0,81,9451,329,329,7746c40b.jpg
+name: fxy猪猪窝
+sex: 女
+
+Counter: 67
+url: http://sz.xiaozhu.com/fangzi/28313713303.html
+title: 近科技园/海岸城/万象天地/家庭情侣首选两房
+address: 广东省深圳市南山区前海路新德家园
+price: 488
+img: https://image.xiaozhustatic1.com/21/16,0,5,21098,364,363,178e4d5a.jpg
+name: M7精品民宿
+sex: 女
+
+Counter: 68
+url: http://sz.xiaozhu.com/fangzi/8828164264.html
+title: 【M7精品民宿】8近前海蛇口海上世界超棒两房
+address: 广东省深圳市南山区前海路泛海城市广场A座
+price: 488
+img: https://image.xiaozhustatic1.com/21/16,0,5,21098,364,363,178e4d5a.jpg
+name: M7精品民宿
+sex: 女
+
+Counter: 69
+url: http://sz.xiaozhu.com/fangzi/25913230603.html
+title: 【寓尚】近会展福田口岸福民商圈北欧风温馨小屋
+address: 广东省深圳市福田区皇岗公园六街
+price: 318
+img: https://image.xiaozhustatic1.com/21/12,0,39,25767,350,350,54f12b5b.jpg
+name: 宁小样
+sex: 男
+
+Counter: 70
+url: http://sz.xiaozhu.com/fangzi/5958849716.html
+title: 【二号理想屋】南油蛇口沃尔玛东滨路南海大道
+address: 广东省深圳市南山区新一代国际公寓
+price: 438
+img: https://image.xiaozhustatic1.com/21/7,0,48,13425,329,329,de284cc4.jpg
+name: hc725
+sex: 男
+
+Counter: 71
+url: http://sz.xiaozhu.com/fangzi/24153423301.html
+title: 【青鸟】世界之窗欢乐谷特大床房
+address: 广东省深圳市南山区深南大道9030
+price: 398
+img: https://image.xiaozhustatic1.com/21/13,0,99,12272,260,260,e02da77d.jpg
+name: 深圳浣花堂
+sex: 女
+
+Counter: 72
+url: http://sz.xiaozhu.com/fangzi/16723815301.html
+title: (近深圳北站)温馨地中海风情 大床房
+address: 广东省深圳市龙华区华业玫瑰四季一期2栋2座红山...
+price: 148
+img: https://image.xiaozhustatic1.com/21/11,0,24,6169,329,329,1020452e.jpg
+name: 鱼舍2店
+sex: 女
+
+Counter: 73
+url: http://sz.xiaozhu.com/fangzi/23627781903.html
+title: 深圳北  复式两房整套出租
+address: 广东省深圳市龙华区民治街道民康路樟坑三区
+price: 408
+img: https://image.xiaozhustatic1.com/21/12,0,48,3196,260,260,b6250c55.jpg
+name: 素问瑜伽
+sex: 女
+
+Counter: 74
+url: http://sz.xiaozhu.com/fangzi/30166578803.html
+title: 【长租特惠】会展中心 福田口岸 简白一居室
+address: 广东省深圳市福田区晨晖家园
+price: 318
+img: https://image.xiaozhustatic1.com/21/12,0,75,13289,414,414,764f5ef9.jpg
+name: 鱼舍
+sex: 男
+
+Counter: 75
+url: http://sz.xiaozhu.com/fangzi/29330277403.html
+title: 【东门商业街蓝炫】fxy猪猪窝（4）
+address: 广东省深圳市罗湖区深南东路2118号港澳8号
+price: 268
+img: https://image.xiaozhustatic1.com/21/10,0,81,9451,329,329,7746c40b.jpg
+name: fxy猪猪窝
+sex: 女
+
+Counter: 76
+url: http://sz.xiaozhu.com/fangzi/23681915003.html
+title: 【暧昧】繁华地段东门老街的梦幻公寓
+address: 广东省深圳市罗湖区解放路港岛银座
+price: 348
+img: https://image.xiaozhustatic1.com/21/13,0,16,378,329,329,0e2930cd.jpg
+name: Zofee
+sex: 女
+
+Counter: 77
+url: http://sz.xiaozhu.com/fangzi/31637389203.html
+title: 罗湖口岸深圳站双地铁近东门国贸双地铁精致一房
+address: 广东省深圳市罗湖区春风路3045号
+price: 378
+img: https://image.xiaozhustatic1.com/21/14,0,8,20442,329,329,33ca7506.jpg
+name: Miss三次方|D
+sex: 女
+
+Counter: 78
+url: http://sz.xiaozhu.com/fangzi/26154593303.html
+title: 近深圳北站会展中心福田口岸世界之窗两房一厅
+address: 广东省深圳市龙华区书香门第上河坊
+price: 418
+img: https://image.xiaozhustatic1.com/21/13,0,43,15090,260,260,a58bee57.jpg
+name: Home123民宿
+sex: 女
+
+Counter: 79
+url: http://sz.xiaozhu.com/fangzi/24823032903.html
+title: 舒适家／一室一厅/近布吉深圳东站木棉湾地铁站
+address: 广东省深圳市龙岗区南兴路1号1983创意小镇内优趣...
+price: 268
+img: https://image.xiaozhustatic1.com/21/12,0,6,13219,329,329,69f0c285.jpg
+name: lijing824X
+sex: 女
+
+Counter: 80
+url: http://sz.xiaozhu.com/fangzi/9197684464.html
+title: 【磨坊】世界之窗欢乐谷华侨城商务两房
+address: 广东省深圳市南山区沙河世纪假日广场
+price: 498
+img: https://image.xiaozhustatic1.com/21/13,0,99,12272,260,260,e02da77d.jpg
+name: 深圳浣花堂
+sex: 女
+
+Counter: 81
+url: http://sz.xiaozhu.com/fangzi/6513264816.html
+title: 海上世界Seaworld与超豪为邻看山海两房
+address: 广东省深圳市南山区蛇口海昌街海伴雅居A栋
+price: 499
+img: https://image.xiaozhustatic1.com/21/11,0,79,10413,330,329,2afbc027.jpg
+name: Cathywu5
+sex: 女
+
+Counter: 82
+url: http://sz.xiaozhu.com/fangzi/31633987103.html
+title: 近人民医院/东门罗湖口岸/水贝珠宝/1号公寓
+address: 广东省深圳市罗湖区文锦东路怡泰大厦
+price: 338
+img: https://image.xiaozhustatic1.com/21/14,0,91,13783,375,375,6b53c00d.jpg
+name: 5e小胡
+sex: 男
+
+Counter: 83
+url: http://sz.xiaozhu.com/fangzi/25741623803.html
+title: 4号线深圳北站福田口岸1房1厅温馨家庭套房
+address: 广东省深圳市龙华区 民塘路星河传奇二期
+price: 298
+img: https://image.xiaozhustatic1.com/21/12,0,41,19266,260,260,064fbc1f.jpg
+name: 肖华友
+sex: 男
+
+Counter: 84
+url: http://sz.xiaozhu.com/fangzi/23908587303.html
+title: 会展皇岗福田口岸购物公园CBD华强北-馨之堡
+address: 广东省深圳市福田区岗厦彩天名苑
+price: 368
+img: https://image.xiaozhustatic1.com/21/12,0,53,7218,210,210,b5501267.jpg
+name: May4260
+sex: 女
+
+Counter: 85
+url: http://sz.xiaozhu.com/fangzi/11296035760.html
+title: 【云邸】地铁口罗湖口岸万象城kkmall
+address: 广东省深圳市罗湖区解放路3002号港岛银座大厦
+price: 390
+img: https://image.xiaozhustatic1.com/21/11,0,75,7424,329,329,45e839f0.jpg
+name: 符符
+sex: 女
+
+Counter: 86
+url: http://sz.xiaozhu.com/fangzi/9516457064.html
+title: 私家花园，国贸东门地铁，近罗湖口岸文锦渡口岸
+address: 广东省深圳市罗湖区黄贝街道景贝南小区
+price: 249
+img: https://image.xiaozhustatic1.com/21/6,0,90,4074,329,329,1a8b1a26.jpg
+name: 菠萝888
+sex: 女
+
+Counter: 87
+url: http://sz.xiaozhu.com/fangzi/14059154603.html
+title: 珠宝之家   田贝地铁站附近的花园欧式两居
+address: 广东省深圳市罗湖区水贝二路38号泊林花园
+price: 539
+img: https://image.xiaozhustatic1.com/21/9,0,51,13017,363,363,94be5cea.jpg
+name: 梅梅笑
+sex: 女
+
+Counter: 88
+url: http://sz.xiaozhu.com/fangzi/28524951603.html
+title: 「Home」中心区布吉双地铁换乘站清新公寓
+address: 广东省深圳市龙岗区布吉街道深惠路佳兆业大都汇...
+price: 308
+img: https://image.xiaozhustatic1.com/21/11,0,74,9872,375,376,15d618d9.jpg
+name: 思思L
+sex: 女
+
+Counter: 89
+url: http://sz.xiaozhu.com/fangzi/28726459203.html
+title: 绵绵家/南山中心区/近科技园世界之窗/带投影
+address: 广东省深圳市南山区桃园路前海金岸
+price: 368
+img: https://image.xiaozhustatic1.com/21/9,0,43,14705,329,329,cca98ac4.jpg
+name: _绵绵_
+sex: 女
+
+Counter: 90
+url: http://sz.xiaozhu.com/fangzi/14388635403.html
+title: 东门步行街～地铁口～猪猪窝
+address: 广东省深圳市罗湖区深南东路2118号港澳八号
+price: 268
+img: https://image.xiaozhustatic1.com/21/10,0,81,9451,329,329,7746c40b.jpg
+name: fxy猪猪窝
+sex: 女
+
+Counter: 91
+url: http://sz.xiaozhu.com/fangzi/3271635830.html
+title: 高尔夫球场边的家-趣园私人酒店公寓
+address: 广东省深圳市福田区滨河大道9172趣园私人公寓
+price: 539
+img: https://image.xiaozhustatic1.com/21/6,0,39,3039,280,281,6a0a5d72.jpg
+name: 朱一刀
+sex: 男
+
+Counter: 92
+url: http://sz.xiaozhu.com/fangzi/5762138514.html
+title: 1号主人房｜1.8米床  前海园林式小区公寓
+address: 广东省深圳市南山区前海路与学府路交汇处
+price: 206
+img: https://image.xiaozhustatic1.com/21/6,0,95,2274,260,260,5f335665.jpg
+name: 大虾zzz
+sex: 女
+
+Counter: 93
+url: http://sz.xiaozhu.com/fangzi/16423859403.html
+title: （可聚会开趴）直通香港，地中海风情大两房
+address: 广东省深圳市龙华区华业玫瑰四季一期2栋2座红山...
+price: 469
+img: https://image.xiaozhustatic1.com/21/11,0,24,6169,329,329,1020452e.jpg
+name: 鱼舍2店
+sex: 女
+
+Counter: 94
+url: http://sz.xiaozhu.com/fangzi/31288166303.html
+title: 橙CC民宿-5号家庭房/深圳湾/南油/体育馆
+address: 广东省深圳市南山区南光城市花园2栋
+price: 428
+img: https://image.xiaozhustatic1.com/21/13,0,91,14619,364,363,7b8bcc13.jpg
+name: 橙CiCi
+sex: 女
+
+Counter: 95
+url: http://sz.xiaozhu.com/fangzi/20005958703.html
+title: 复式Loft 深圳湾口岸/南油批发/南山中心
+address: 广东省深圳市南山区南新路和东滨路交汇
+price: 528
+img: https://image.xiaozhustatic1.com/21/13,0,28,30537,414,414,aed2c977.jpg
+name: 蛋蛋的家
+sex: 女
+
+Counter: 96
+url: http://sz.xiaozhu.com/fangzi/30219532603.html
+title: 格调2房 近深圳湾世界之窗科技园 俯瞰公园
+address: 广东省深圳市南山区金鸡路1号田厦翡翠明珠
+price: 518
+img: https://image.xiaozhustatic1.com/21/12,0,92,390,329,329,4a71722f.jpg
+name: DannaDu
+sex: 女
+
+Counter: 97
+url: http://sz.xiaozhu.com/fangzi/24306355801.html
+title: 福田中心高尔夫球场的趣园，近会展中心购物公园
+address: 广东省深圳市福田区滨河大道9172号
+price: 398
+img: https://image.xiaozhustatic1.com/21/13,0,22,27572,329,329,b87d1171.jpg
+name: 荷你相遇
+sex: 女
+
+Counter: 98
+url: http://sz.xiaozhu.com/fangzi/32954504201.html
+title: 会展中心福田口岸地铁4号7号田园高层2房整租
+address: 广东省深圳市福田区福强路海滨广场
+price: 399
+img: https://image.xiaozhustatic1.com/21/14,0,47,10517,260,260,21d63a3b.jpg
+name: 初见小住
+sex: 女
+
+Counter: 99
+url: http://sz.xiaozhu.com/fangzi/5764837613.html
+title: 6号榻榻米房|前海园林式小区公寓
+address: 广东省深圳市南山区前海路与学府路交汇处
+price: 188
+img: https://image.xiaozhustatic1.com/21/6,0,95,2274,260,260,5f335665.jpg
+name: 大虾zzz
+sex: 女
+
+Counter: 100
+url: http://sz.xiaozhu.com/fangzi/23691819303.html
+title: G【M7连锁民宿】南山中心大新地铁口两房整租
+address: 广东省深圳市南山区前海路新德家园DB栋
+price: 488
+img: https://image.xiaozhustatic1.com/21/16,0,5,21098,364,363,178e4d5a.jpg
+name: M7精品民宿
+sex: 女
+
+Counter: 101
+url: http://sz.xiaozhu.com/fangzi/10739633660.html
+title: 距离会展中心300米高铁双地铁北欧大两室一厅
+address: 广东省深圳市福田区皇岗街道皇庭世纪
+price: 528
+img: https://image.xiaozhustatic1.com/21/16,0,3,13057,363,363,9cf61d1d.jpg
+name: OneCity_壹壹
+sex: 女
+
+Counter: 102
+url: http://sz.xiaozhu.com/fangzi/26818709603.html
+title: 临近东门、国贸、金光华、火车站、罗湖口岸
+address: 广东省深圳市罗湖区人民南路3003号海丰苑大厦
+price: 538
+img: https://image.xiaozhustatic1.com/21/12,0,18,27555,260,260,53229ec0.jpg
+name: 赵先生8333
+sex: 男
+
+Counter: 103
+url: http://sz.xiaozhu.com/fangzi/30542130501.html
+title: 11号线南山 直达机场/科技园/海岸城小单间
+address: 广东省深圳市南山区南新路1154号
+price: 158
+img: https://image.xiaozhustatic1.com/21/11,0,73,15963,414,414,8571b8a8.jpg
+name: Jimmy小鹿
+sex: 男
+
+Counter: 104
+url: http://sz.xiaozhu.com/fangzi/12988141901.html
+title: 近大鹏较场尾/金沙湾公寓larsunday
+address: 广东省深圳市大鹏新区迎宾北路165号KPR佳兆业假...
+price: 298
+img: https://image.xiaozhustatic1.com/21/10,0,5,7986,329,329,27634759.jpg
+name: ABBY可可乐乐
+sex: 女
+
+Counter: 105
+url: http://sz.xiaozhu.com/fangzi/5647831813.html
+title: 【流年】世界之窗欢乐谷时尚艺术两房
+address: 广东省深圳市南山区沙河世纪假日广场
+price: 498
+img: https://image.xiaozhustatic1.com/21/13,0,99,12272,260,260,e02da77d.jpg
+name: 深圳浣花堂
+sex: 女
+
+Counter: 106
+url: http://sz.xiaozhu.com/fangzi/20077314003.html
+title: [特惠]地铁口小区 清新温馨两房整租 可做饭
+address: 广东省深圳市龙岗区布吉大芬地铁口
+price: 358
+img: https://image.xiaozhustatic1.com/21/6,0,71,3965,228,228,2270510b.jpg
+name: 阿黛家
+sex: 女
+
+Counter: 107
+url: http://sz.xiaozhu.com/fangzi/14375362803.html
+title: 罗湖东门商圈~地铁口~【北欧风格】小鹿屋
+address: 广东省深圳市罗湖区深南东路2118号港澳八号
+price: 298
+img: https://image.xiaozhustatic1.com/21/15,0,80,19041,375,375,cf54c353.jpg
+name: 小鹿家
+sex: 女
+
+Counter: 108
+url: http://sz.xiaozhu.com/fangzi/32572210803.html
+title: 世界之窗欢乐谷近地铁浪漫北欧艺术屋
+address: 广东省深圳市南山区沙河世纪假日广场
+price: 488
+img: https://image.xiaozhustatic1.com/21/14,0,6,4182,414,415,2d1060d3.jpg
+name: 海归小姐姐
+sex: 女
+
+Counter: 109
+url: http://sz.xiaozhu.com/fangzi/16948722701.html
+title: （新上特惠）深圳北驿站，地中海风大床房
+address: 广东省深圳市龙华区华业玫瑰四季一期2栋2座红山...
+price: 168
+img: https://image.xiaozhustatic1.com/21/11,0,24,6169,329,329,1020452e.jpg
+name: 鱼舍2店
+sex: 女
+
+Counter: 110
+url: http://sz.xiaozhu.com/fangzi/32907633203.html
+title: 皇岗村福民地铁福田CBD毗邻会展中心一居整租
+address: 广东省深圳市福田区晨晖家园
+price: 318
+img: https://image.xiaozhustatic1.com/21/13,0,11,18010,186,186,f7ee9189.jpg
+name: 吖Dee
+sex: 男
+
+Counter: 111
+url: http://sz.xiaozhu.com/fangzi/21123836101.html
+title: 深圳北站九方购物中心豪华五室两厅168平米
+address: 广东省深圳市龙华区人民路与腾龙路交汇中航天逸
+price: 918
+img: https://image.xiaozhustatic1.com/21/11,0,44,16072,260,260,cec89915.jpg
+name: 名墅一品
+sex: 男
+
+Counter: 112
+url: http://sz.xiaozhu.com/fangzi/31726444503.html
+title: 深圳南山ins粉色泡泡双房近万象天地/科技园
+address: 广东省深圳市南山区大冲新城花园
+price: 588
+img: https://image.xiaozhustatic1.com/21/12,0,43,14385,375,376,4e0981cb.jpg
+name: Ritading
+sex: 女
+
+Counter: 113
+url: http://sz.xiaozhu.com/fangzi/18905602803.html
+title: 福田CBD会展中心双地铁 豪华大单间
+address: 广东省深圳市福田区彩田路3095星河世纪
+price: 398
+img: https://image.xiaozhustatic1.com/21/9,0,72,12272,160,160,29d07611.jpg
+name: 罗Sea
+sex: 女
+
+Counter: 114
+url: http://sz.xiaozhu.com/fangzi/19484999301.html
+Counter: 115
+url: http://sz.xiaozhu.com/fangzi/33325540603.html
+title: 车公庙上下沙购物公园香蜜湖两室安心的家
+address: 广东省深圳市福田区碧海红树园
+price: 468
+img: https://image.xiaozhustatic1.com/21/15,0,70,2032,260,260,d4ea9be6.jpg
+name: Vicky7702
+sex: 女
+
+Counter: 116
+url: http://sz.xiaozhu.com/fangzi/28740263503.html
+title: 香蕉宿#西丽万科云城近深圳北科技园海岸城两房
+address: 广东省深圳市南山区西丽万科云城三期
+price: 530
+img: https://image.xiaozhustatic1.com/21/11,0,97,10414,414,415,0ed1440a.jpg
+name: 香蕉宿小助手
+sex: 男
+
+Counter: 117
+url: http://sz.xiaozhu.com/fangzi/24170817203.html
+title: 新房特惠车公庙kkone下沙地铁口上盖两房
+address: 广东省深圳市福田区花好园
+price: 488
+img: https://image.xiaozhustatic1.com/21/12,0,52,23842,260,260,e1c61419.jpg
+name: 那间客栈
+sex: 女
+
+Counter: 118
+url: http://sz.xiaozhu.com/fangzi/3332944930.html
+title: 翡15南山区双地铁整租公寓科技园深大近香港
+address: 广东省深圳市南山区桃园路与常兴路交汇处田厦翡...
+price: 298
+img: https://image.xiaozhustatic1.com/21/4,0,57,10119,472,472,cbd88997.jpg
+name: kimi公寓
+sex: 女
+
+Counter: 119
+url: http://sz.xiaozhu.com/fangzi/2237399445.html
+title: 紧邻东部华侨城万科东海岸小区2室2厅精装公寓
+address: 广东省深圳市盐田区环碧路万科东海岸达观居
+price: 436
+img: https://image.xiaozhustatic1.com/21/7,0,71,10899,375,375,204a7399.jpg
+name: narol
+sex: 男
+
+Counter: 120
+url: http://sz.xiaozhu.com/fangzi/21845447303.html
+title: 福田口岸+会展中心，地铁口马卡龙色两房
+address: 广东省深圳市福田区福民路119号
+price: 398
+img: https://image.xiaozhustatic1.com/21/12,0,57,2765,260,260,35a46e50.jpg
+name: 构造家
+sex: 男
+
+Counter: 121
+url: http://sz.xiaozhu.com/fangzi/30722154203.html
+title: 宝安中心/新安地铁站/壹方城/温馨小家3
+address: 广东省深圳市宝安区宝安38区龙泉一路CD栋
+price: 268
+img: https://image.xiaozhustatic1.com/21/13,0,87,10434,329,329,3f33d024.jpg
+name: 新力创
+sex: 女
+
+Counter: 122
+url: http://sz.xiaozhu.com/fangzi/18502500603.html
+title: 来福士/深圳湾/海岸城/春茧 大两居 有油汀
+address: 广东省深圳市南山区海王大厦B
+price: 500
+img: https://image.xiaozhustatic1.com/21/11,0,65,2458,260,260,41878922.jpg
+name: 琉璃半夏
+sex: 男
+
+Counter: 123
+url: http://sz.xiaozhu.com/fangzi/29319914003.html
+title: 橙CC公寓-3深圳湾/复式/服装城/近香港
+address: 广东省深圳市南山区阳光科创中心C座
+price: 468
+img: https://image.xiaozhustatic1.com/21/13,0,91,14619,364,363,7b8bcc13.jpg
+name: 橙CiCi
+sex: 女
+
+Counter: 124
+url: http://sz.xiaozhu.com/fangzi/29095352303.html
+title: 深圳北 民治地铁房，近福田口岸会展中心大学城
+address: 广东省深圳市龙华区民康路
+price: 188
+img: https://image.xiaozhustatic1.com/21/12,0,76,9785,260,260,bf8cfb82.jpg
+name: 菜菜小居
+sex: 女
+
+Counter: 125
+url: http://sz.xiaozhu.com/fangzi/20600534603.html
+title: 高尔夫球场边的家3福田中心近购物公园
+address: 广东省深圳市福田区滨河大道9172号趣园
+price: 398
+img: https://image.xiaozhustatic1.com/21/6,0,39,3039,280,281,6a0a5d72.jpg
+name: 朱一刀
+sex: 男
+
+Counter: 126
+url: http://sz.xiaozhu.com/fangzi/27837287003.html
+title: 福田中心区北欧清新阳光房
+address: 广东省深圳市福田区新洲牌坊附近嘉州富苑
+price: 598
+img: https://image.xiaozhustatic1.com/21/13,0,55,7370,363,364,2c59c182.jpg
+name: JOJO福田嘉洲富苑
+sex: 男
+
+Counter: 127
+url: http://sz.xiaozhu.com/fangzi/9382738264.html
+title: 【青家】限时特价！3线横岗地铁口高档小区二室
+address: 广东省深圳市龙岗区横岗街道
+price: 268
+img: https://image.xiaozhustatic1.com/21/9,0,22,3717,163,162,42f417a5.jpg
+name: 青青舍
+sex: 女
+
+Counter: 128
+url: http://sz.xiaozhu.com/fangzi/6489147716.html
+title: 国贸双地铁，温馨优雅2居室4人房
+address: 广东省深圳市罗湖区罗湖友谊大厦
+price: 398
+img: https://image.xiaozhustatic1.com/21/8,0,29,9835,160,160,607ce1a9.jpg
+name: kikty
+sex: 女
+
+Counter: 129
+url: http://sz.xiaozhu.com/fangzi/8124961716.html
+title: 福田高尔夫球场边的家＋趣园公寓高层
+address: 广东省深圳市福田区滨河大道9172号趣园
+price: 398
+img: https://image.xiaozhustatic1.com/21/6,0,39,3039,280,281,6a0a5d72.jpg
+name: 朱一刀
+sex: 男
+
+Counter: 130
+url: http://sz.xiaozhu.com/fangzi/17050134703.html
+title: 海岸城南山中心区地铁希缺2房整套租
+address: 广东省深圳市南山区文心一路99号
+price: 568
+img: https://image.xiaozhustatic1.com/21/8,0,54,5285,260,260,b6386029.jpg
+name: TOM的小屋
+sex: 女
+
+Counter: 131
+url: http://sz.xiaozhu.com/fangzi/6937219616.html
+title: 高尔夫景超大情侣套房近购物公园会展世界之窗
+address: 广东省深圳市福田区滨河大道9172号趣园私人公寓
+price: 398
+img: https://image.xiaozhustatic1.com/21/6,0,39,3039,280,281,6a0a5d72.jpg
+name: 朱一刀
+sex: 男
+
+Counter: 132
+url: http://sz.xiaozhu.com/fangzi/5764528413.html
+title: 5号飘窗次卧|前海园林式小区公寓
+address: 广东省深圳市南山区前海路与学府路交汇处
+price: 186
+img: https://image.xiaozhustatic1.com/21/6,0,95,2274,260,260,5f335665.jpg
+name: 大虾zzz
+sex: 女
+
+Counter: 133
+url: http://sz.xiaozhu.com/fangzi/3493005730.html
+title: 【特惠】科技园地铁口 近欢乐谷最佳舒适2房
+address: 广东省深圳市南山区铜鼓路大冲新城花园1座
+price: 428
+img: https://image.xiaozhustatic1.com/21/5,0,30,2114,260,260,93ab6e26.jpg
+name: 海风叔叔
+sex: 男
+
+Counter: 134
+url: http://sz.xiaozhu.com/fangzi/30121555403.html
+title: 福田新洲车公庙会展、购物公园福田口岸两房整租
+address: 广东省深圳市福田区沙头街道新洲八街30号
+price: 468
+img: https://image.xiaozhustatic1.com/21/14,0,25,4650,225,226,9a4fd5f1.jpg
+name: CR_mo
+sex: 男
+
+Counter: 135
+url: http://sz.xiaozhu.com/fangzi/28304517903.html
+title: 近春茧 深圳湾口岸 北欧风两房
+address: 广东省深圳市南山区南光城市花园
+price: 468
+img: https://image.xiaozhustatic1.com/21/6,0,39,741,260,260,f0f36ca4.jpg
+name: 胡小花
+sex: 女
+
+Counter: 136
+url: http://sz.xiaozhu.com/fangzi/18244282603.html
+title: 精品三房近福田口岸地铁.会展中心.河景
+address: 广东省深圳市福田区裕亨路3号
+price: 618
+img: https://image.xiaozhustatic1.com/21/6,0,39,3039,280,281,6a0a5d72.jpg
+name: 朱一刀
+sex: 男
+
+Counter: 137
+url: http://sz.xiaozhu.com/fangzi/15893062903.html
+title: 华侨城创意园1号线地铁一房一厅整租
+address: 广东省深圳市南山区华侨城光华街19栋东面
+price: 528
+img: https://image.xiaozhustatic1.com/21/11,0,30,10903,270,270,77829b56.jpg
+name: 小班之家
+sex: 女
+
+Counter: 138
+url: http://sz.xiaozhu.com/fangzi/27955667901.html
+title: 【寓荐】新房源 福田保税区近香港阳光宁静雅居
+address: 广东省深圳市福田区加福广场华尔登府邸
+price: 558
+img: https://image.xiaozhustatic1.com/21/13,0,76,8303,260,260,48e880ec.jpg
+name: 寓荐民宿
+sex: 女
+
+Counter: 139
+url: http://sz.xiaozhu.com/fangzi/24931354703.html
+title: 【东门老街干净舒适】fxy猪猪窝3
+address: 广东省深圳市罗湖区深南东路2118号港澳8号A11A0...
+price: 268
+img: https://image.xiaozhustatic1.com/21/10,0,81,9451,329,329,7746c40b.jpg
+name: fxy猪猪窝
+sex: 女
+
+Counter: 140
+url: http://sz.xiaozhu.com/fangzi/31652739701.html
+title: 福田口岸会展香蜜湖星巴克上安静阳光北欧公寓
+address: 广东省深圳市福田区新闻路
+price: 368
+img: https://image.xiaozhustatic1.com/21/12,0,9,18071,260,260,b6d5cdfa.jpg
+name: jackinda
+sex: 女
+
+Counter: 141
+url: http://sz.xiaozhu.com/fangzi/28634558203.html
+title: 福田会展中心/福田皇岗双口岸地铁口商旅公寓
+address: 广东省深圳市福田区金田路2003号水围金怡华庭
+price: 468
+img: https://image.xiaozhustatic1.com/21/9,0,5,16399,320,320,580924f2.jpg
+name: rachelyu
+sex: 女
+
+Counter: 142
+url: http://sz.xiaozhu.com/fangzi/16579724003.html
+title: 【立夏】世界之窗欢乐谷华侨城精品两卧套房
+address: 广东省深圳市南山区沙河世纪假日广场D
+price: 498
+img: https://image.xiaozhustatic1.com/21/13,0,99,12272,260,260,e02da77d.jpg
+name: 深圳浣花堂
+sex: 女
+
+Counter: 143
+url: http://sz.xiaozhu.com/fangzi/27882637901.html
+title: （促销）【米兰】南山中心深圳湾口岸 复式
+address: 广东省深圳市南山区南新路1024号阳光科创中心c座...
+price: 408
+img: https://image.xiaozhustatic1.com/21/15,0,5,9863,329,329,93d855ae.jpg
+name: 十八岁的老男孩
+sex: 男
+
+Counter: 144
+url: http://sz.xiaozhu.com/fangzi/9250246264.html
+title: 地铁口精装商务公寓，世界之窗，华侨城，科技园
+address: 广东省深圳市南山区大冲新城花园
+price: 465
+img: https://image.xiaozhustatic1.com/21/9,0,96,4486,329,329,1714c5d3.jpg
+name: 司徒_惠儿
+sex: 女
+
+Counter: 145
+url: http://sz.xiaozhu.com/fangzi/32419704303.html
+title: 宝安中心区-灵芝地铁口高品质四房
+address: 广东省深圳市宝安区中洲华府栋9栋
+price: 838
+img: https://image.xiaozhustatic1.com/21/8,0,80,8306,260,260,77a1de69.jpg
+name: juliet鑫媛
+sex: 女
+
+Counter: 146
+url: http://sz.xiaozhu.com/fangzi/5051120214.html
+title: 日式公寓 福田CBD 会展中心
+address: 广东省深圳市福田区星河世纪B栋
+price: 388
+img: https://image.xiaozhustatic1.com/21/11,0,7,6358,414,414,39c196f8.jpg
+name: katnissx
+sex: 女
+
+Counter: 147
+url: http://sz.xiaozhu.com/fangzi/26991670403.html
+title: 【微巢】万象kkmall东门之间的小阁楼公寓
+address: 广东省深圳市罗湖区桂园街道幸福华府
+price: 378
+img: https://image.xiaozhustatic1.com/21/13,0,16,378,329,329,0e2930cd.jpg
+name: Zofee
+sex: 女
+
+Counter: 148
+url: http://sz.xiaozhu.com/fangzi/14028627103.html
+title: 会展中心北欧时尚公寓近福田口岸购物公园
+address: 广东省深圳市福田区彩田路星河世纪
+price: 368
+img: https://image.xiaozhustatic1.com/21/10,0,76,17831,376,375,9edcf991.jpg
+name: 林欣儿
+sex: 女
+
+Counter: 149
+url: http://sz.xiaozhu.com/fangzi/31124449103.html
+title: 欢乐谷世界之窗地铁口温馨雅致两房
+address: 广东省深圳市南山区沙河世纪假日广场
+price: 468
+img: https://image.xiaozhustatic1.com/21/13,0,53,28325,363,363,aa8dfebd.jpg
+name: 欢乐驿站
+sex: 女
+
+Counter: 150
+url: http://sz.xiaozhu.com/fangzi/25966556301.html
+title: 【曼谷】世界之窗科技园前海 2房公寓
+address: 广东省深圳市南山区南新路1024号阳光科创中心C座...
+price: 408
+img: https://image.xiaozhustatic1.com/21/15,0,5,9863,329,329,93d855ae.jpg
+name: 十八岁的老男孩
+sex: 男
+
+Counter: 151
+url: http://sz.xiaozhu.com/fangzi/8174095615.html
+title: 深圳湾海岸城商圈地铁深圳大学后海总部创新广场
+address: 广东省深圳市南山区深圳湾云海天城1栋
+price: 668
+img: https://image.xiaozhustatic1.com/21/8,0,63,10203,320,321,4a051227.jpg
+name: Chris525
+sex: 男
+
+Counter: 152
+url: http://sz.xiaozhu.com/fangzi/4054168630.html
+title: 【冥想】世界之窗白石洲地铁口中禅意温馨两房
+address: 广东省深圳市南山区白石洲侨城豪苑
+price: 498
+img: https://image.xiaozhustatic1.com/21/13,0,99,12272,260,260,e02da77d.jpg
+name: 深圳浣花堂
+sex: 女
+
+Counter: 153
+url: http://sz.xiaozhu.com/fangzi/31805634803.html
+title: 近深圳北站直达福田口岸超大两房
+address: 广东省深圳市龙华区民治街道梅龙阁
+price: 428
+img: https://image.xiaozhustatic1.com/21/13,0,43,15090,260,260,a58bee57.jpg
+name: Home123民宿
+sex: 女
+
+Counter: 154
+url: http://sz.xiaozhu.com/fangzi/26893521603.html
+Counter: 155
+url: http://sz.xiaozhu.com/fangzi/9093519163.html
+title: 京基100附近阳光温馨一居室
+address: 广东省深圳市罗湖区宝安南路
+price: 358
+img: https://image.xiaozhustatic1.com/21/10,0,46,18650,363,363,ede838a9.jpg
+name: angel_shi
+sex: 女
+
+Counter: 156
+url: http://sz.xiaozhu.com/fangzi/32075332903.html
+title: 罗湖口岸火车站双地铁口糖果色温馨大落地窗公寓
+address: 广东省深圳市罗湖区沿河南路汇泰大厦B栋
+price: 248
+img: https://image.xiaozhustatic1.com/21/13,0,10,6834,260,260,050336a5.jpg
+name: 石shi_
+sex: 女
+
+Counter: 157
+url: http://sz.xiaozhu.com/fangzi/6257935516.html
+title: 西涌（西冲） 舒适宜居宽敞双床房近沙滩
+address: 广东省深圳市大鹏新区南澳西涌沙滩三号收费口鹤...
+price: 198
+img: https://image.xiaozhustatic1.com/21/9,0,69,3086,329,329,36b65a23.jpg
+name: 西涌蝴蝶家客栈
+sex: 女
+
+Counter: 158
+url: http://sz.xiaozhu.com/fangzi/14610694003.html
+title: 【云邸3号】地铁口靠近地王万象城kkmall
+address: 广东省深圳市罗湖区解放路港岛银座大厦
+price: 390
+img: https://image.xiaozhustatic1.com/21/11,0,75,7424,329,329,45e839f0.jpg
+name: 符符
+sex: 女
+
+Counter: 159
+url: http://sz.xiaozhu.com/fangzi/25006265503.html
+title: 会展中心、福田口岸精装一房整租
+address: 广东省深圳市福田区皇岗公园二街晨晖家园
+price: 288
+img: https://image.xiaozhustatic1.com/21/12,0,49,21605,329,329,d27cb9a6.jpg
+name: 构造家の归家
+sex: 男
+
+Counter: 160
+url: http://sz.xiaozhu.com/fangzi/33527446303.html
+title: 近深圳湾口岸/体育馆/海岸城/南油市场/深大
+address: 广东省深圳市南山区南光城市花园2栋
+price: 438
+img: https://image.xiaozhustatic1.com/21/13,0,0,8275,363,363,8941f823.jpg
+name: NGhome
+sex: 男
+
+Counter: 161
+url: http://sz.xiaozhu.com/fangzi/28185135603.html
+title: 福田车公庙下沙地铁站/科技园1室1厅长租优惠
+Counter: 162
+url: http://sz.xiaozhu.com/fangzi/31099618903.html
+title: 清湖站近深圳北站直达福田口岸贤华名苑复式两房
+address: 广东省深圳市龙华区清湖路贤华名苑
+price: 319
+img: https://image.xiaozhustatic1.com/21/16,0,84,34719,376,375,e00696a7.jpg
+name: 山山小菜
+sex: 女
+
+Counter: 163
+url: http://sz.xiaozhu.com/fangzi/4515373414.html
+title: 【蒹葭】世界之窗欢乐谷科技园北欧地铁雅致两房
+address: 广东省深圳市南山区沙河世纪假日广场
+price: 498
+img: https://image.xiaozhustatic1.com/21/13,0,99,12272,260,260,e02da77d.jpg
+name: 深圳浣花堂
+sex: 女
+
+Counter: 164
+url: http://sz.xiaozhu.com/fangzi/9197221164.html
+title: 【日出】世界之窗欢乐谷华侨城日式两房
+address: 广东省深圳市南山区沙河世纪假日广场
+price: 498
+img: https://image.xiaozhustatic1.com/21/13,0,99,12272,260,260,e02da77d.jpg
+name: 深圳浣花堂
+sex: 女
+
+Counter: 165
+url: http://sz.xiaozhu.com/fangzi/14295050903.html
+title: 374世界之窗/欢乐谷/科技园复式温馨单间
+address: 广东省深圳市南山区大冲城市花园
+price: 208
+img: https://image.xiaozhustatic1.com/21/6,0,20,389,329,329,b391f5d2.jpg
+name: Constancezeng
+sex: 女
+
+Counter: 166
+url: http://sz.xiaozhu.com/fangzi/5937765915.html
+title: 福田中心区小两房地铁口
+address: 广东省深圳市福田区梅林路绿景
+price: 580
+img: https://image.xiaozhustatic1.com/21/8,0,41,5370,329,329,fb6652f3.jpg
+name: Hi701
+sex: 男
+
+Counter: 167
+url: http://sz.xiaozhu.com/fangzi/9235014663.html
+title: 海的味道豪华海景双床房小梅沙沙鱼涌 玫瑰海岸
+address: 广东省深圳市龙岗区承翰半山海
+price: 380
+img: https://image.xiaozhustatic1.com/21/15,0,95,26287,260,260,2e55007a.jpg
+name: 大小姐深圳
+sex: 女
+
+Counter: 168
+url: http://sz.xiaozhu.com/fangzi/31425251203.html
+title: 福田高尔夫球场车公庙/上下沙/会展中心公寓
+address: 广东省深圳市福田区滨河大道9172号趣园
+price: 388
+img: https://image.xiaozhustatic1.com/21/13,0,32,10000,270,270,8f815985.jpg
+name: 安诺2017
+sex: 男
+
+Counter: 169
+url: http://sz.xiaozhu.com/fangzi/27954148001.html
+title: 【寓荐】南山桃园店设计师的北欧风安静舒适
+address: 广东省深圳市南山区前海金岸金硕阁
+price: 338
+img: https://image.xiaozhustatic1.com/21/13,0,76,8303,260,260,48e880ec.jpg
+name: 寓荐民宿
+sex: 女
+
+Counter: 170
+url: http://sz.xiaozhu.com/fangzi/16705537203.html
+title: 深圳市福田区会展中心CBD近福田口岸公寓
+address: 广东省深圳市福田区石厦北四街丽阳天下
+price: 308
+img: https://image.xiaozhustatic1.com/21/8,0,90,15258,329,329,76f5f81e.jpg
+name: Lucky_新奇士
+sex: 男
+
+Counter: 171
+url: http://sz.xiaozhu.com/fangzi/10567821260.html
+title: 【三号理想屋】欢乐谷华侨城世界之窗欢乐海岸
+address: 广东省深圳市南山区华侨城西组团社区22栋
+price: 498
+img: https://image.xiaozhustatic1.com/21/7,0,48,13425,329,329,de284cc4.jpg
+name: hc725
+sex: 男
+
+Counter: 172
+url: http://sz.xiaozhu.com/fangzi/25274332103.html
+title: 会展中心/福田口岸 地铁口两房 出差居家首选
+address: 广东省深圳市福田区皇岗公园1街1号
+price: 458
+img: https://image.xiaozhustatic1.com/21/13,0,18,6277,363,363,5236d5fe.jpg
+name: Sunsett
+sex: 男
+
+Counter: 173
+url: http://sz.xiaozhu.com/fangzi/5550005013.html
+title: 近喜来登大酒店/会展中心/岗厦地铁站温馨公寓
+address: 广东省深圳市福田区彩田南路3069星河世纪大厦
+price: 388
+img: https://image.xiaozhustatic1.com/21/10,0,46,18650,363,363,ede838a9.jpg
+name: angel_shi
+sex: 女
+
+Counter: 174
+url: http://sz.xiaozhu.com/fangzi/8723335663.html
+title: 深圳北站无印良品风格小屋
+address: 广东省深圳市宝安区腾龙路与中梅路交汇处润达圆...
+price: 268
+img: https://image.xiaozhustatic1.com/21/8,0,39,14595,281,280,1c3b723f.jpg
+name: mia小屋
+sex: 女
+
+Counter: 175
+url: http://sz.xiaozhu.com/fangzi/32432455303.html
+title: 深圳金沙湾较场尾经典美式两居公寓家庭套房
+address: 广东省深圳市大鹏新区迎宾路佳兆业广场
+price: 498
+img: https://image.xiaozhustatic1.com/21/16,0,19,37155,227,227,cc9b1541.jpg
+name: LennyKang
+sex: 女
+
+Counter: 176
+url: http://sz.xiaozhu.com/fangzi/8215824715.html
+title: 小木屋+大钢琴+福田口岸会展中心+地铁口
+address: 广东省深圳市福田区裕亨路
+price: 338
+img: https://image.xiaozhustatic1.com/21/12,0,92,28695,260,260,697be6bb.jpg
+name: PrinceInn
+sex: 女
+
+Counter: 177
+url: http://sz.xiaozhu.com/fangzi/33991634003.html
+title: 罗湖口岸火车站双地铁落地窗北欧一居室双床间
+address: 广东省深圳市罗湖区沿河南路汇泰大厦
+price: 328
+img: https://image.xiaozhustatic1.com/21/13,0,10,6834,260,260,050336a5.jpg
+name: 石shi_
+sex: 女
+
+Counter: 178
+url: http://sz.xiaozhu.com/fangzi/15884943703.html
+title: 木公子的屋华侨城私人影院房《嘿！马里奥》
+address: 广东省深圳市南山区侨城馨苑
+price: 398
+img: https://image.xiaozhustatic1.com/21/10,0,44,15432,260,260,a477abf0.jpg
+name: 木公子Steven
+sex: 男
+
+Counter: 179
+url: http://sz.xiaozhu.com/fangzi/30500511301.html
+title: 月租长租芝地铁站海雅缤纷城舒适一房
+address: 广东省深圳市宝安区建安一路友和医药
+price: 179
+img: https://image.xiaozhustatic1.com/21/13,0,43,15090,260,260,a58bee57.jpg
+name: Home123民宿
+sex: 女
+
+Counter: 180
+url: http://sz.xiaozhu.com/fangzi/23025604703.html
+title: 深圳布吉大芬地铁口精装四房吴奇隆韩庚拍过片
+address: 广东省深圳市龙岗区布澜路口
+price: 659
+img: https://image.xiaozhustatic1.com/21/11,0,6,18974,260,260,7f6d0d5e.jpg
+name: 荣哥家招短租
+sex: 男
+
+Counter: 181
+url: http://sz.xiaozhu.com/fangzi/31361803603.html
+title: 樱空 日式风格loft公寓靠近罗湖口岸与国贸
+address: 广东省深圳市罗湖区罗湖一号
+price: 318
+img: https://image.xiaozhustatic1.com/21/16,0,96,13985,260,260,c76c2ac8.jpg
+name: 系舟
+sex: 女
+
+Counter: 182
+url: http://sz.xiaozhu.com/fangzi/8847474163.html
+title: 西涌（西冲） 舒适宜居宽敞阳光大床房近沙滩
+address: 广东省深圳市大鹏新区南澳西涌沙滩三号收费口鹤...
+price: 198
+img: https://image.xiaozhustatic1.com/21/9,0,69,3086,329,329,36b65a23.jpg
+name: 西涌蝴蝶家客栈
+sex: 女
+
+Counter: 183
+url: http://sz.xiaozhu.com/fangzi/31279491903.html
+title: 橙CC民宿-4粉粉少女风/近深圳湾/服装城
+address: 广东省深圳市南山区南光城市花园2栋
+price: 428
+img: https://image.xiaozhustatic1.com/21/13,0,91,14619,364,363,7b8bcc13.jpg
+name: 橙CiCi
+sex: 女
+
+Counter: 184
+url: http://sz.xiaozhu.com/fangzi/8720569064.html
+title: 4号线龙华线红山站A出口 无印良品风格小屋
+address: 广东省深圳市宝安区腾龙路与中梅路交汇处润达圆...
+price: 268
+img: https://image.xiaozhustatic1.com/21/8,0,39,14595,281,280,1c3b723f.jpg
+name: mia小屋
+sex: 女
+
+Counter: 185
+url: http://sz.xiaozhu.com/fangzi/12256111302.html
+title: 半山海温馨和谐的双大床房整租
+address: 广东省深圳市大鹏新区葵涌街道土洋社区第二工业...
+price: 430
+img: https://image.xiaozhustatic1.com/21/11,0,90,16955,260,260,48575aa5.jpg
+name: supermanccq
+sex: 男
+
+Counter: 186
+url: http://sz.xiaozhu.com/fangzi/25745592903.html
+title: 近深圳北站会展中心福田口岸世界之窗两房一厅
+address: 广东省深圳市龙华区书香门第上河坊A座
+price: 419
+img: https://image.xiaozhustatic1.com/21/13,0,43,15090,260,260,a58bee57.jpg
+name: Home123民宿
+sex: 女
+
+Counter: 187
+url: http://sz.xiaozhu.com/fangzi/13523393401.html
+title: B碧海湾西乡双地铁 近机场西乡宝体海岸城福田
+address: 广东省深圳市宝安区松茂御龙湾
+price: 168
+img: https://image.xiaozhustatic1.com/21/10,0,36,12322,414,414,80601834.jpg
+name: 林浪浪
+sex: 女
+
+Counter: 188
+url: http://sz.xiaozhu.com/fangzi/24958989001.html
+title: 福田口岸/会展中心 高级公寓温馨双人房
+address: 广东省深圳市福田区桂花路加福广场A座
+price: 388
+img: https://image.xiaozhustatic1.com/21/12,0,55,14493,364,363,84d42a18.jpg
+name: 晶悦高级商务公寓
+sex: 女
+
+Counter: 189
+url: http://sz.xiaozhu.com/fangzi/30477978501.html
+title: 【金秋家】世界之窗+万象天地+高新园超值主卧
+address: 广东省深圳市南山区华润城润府一期
+price: 398
+img: https://image.xiaozhustatic1.com/21/9,0,62,6476,260,260,252795c5.jpg
+name: 露西老师
+sex: 女
+
+Counter: 190
+url: http://sz.xiaozhu.com/fangzi/20605512401.html
+title: 福田中心区/香蜜湖/中式禅意/会展中心/会议
+address: 广东省深圳市福田区景田东路3号紫荆苑
+price: 3633
+img: https://image.xiaozhustatic1.com/21/11,0,41,2179,531,577,9b319ca2.jpg
+name: 莲棚都市草堂
+sex: 女
+
+Counter: 191
+url: http://sz.xiaozhu.com/fangzi/3196001929.html
+title: 今晚特价！近会展中心福田口岸皇岗口岸主题房
+address: 广东省深圳市福田区福民路皇岗公园一街云顶翠峰...
+price: 398
+img: https://image.xiaozhustatic1.com/21/8,0,99,11458,260,260,819b9452.jpg
+name: carrie圆圆
+sex: 女
+
+Counter: 192
+url: http://sz.xiaozhu.com/fangzi/12437207901.html
+title: 近深圳北站，豪华榻榻米亲子套房
+address: 广东省深圳市龙华新区民治街道水榭春天花园三期
+price: 600
+img: https://image.xiaozhustatic1.com/21/16,0,94,9429,363,363,dba56e53.jpg
+name: 守望的天空
+sex: 女
+
+Counter: 193
+url: http://sz.xiaozhu.com/fangzi/20112915103.html
+title: 深圳湾科技园高新园地铁口微宿简约一房一厅
+address: 广东省深圳市南山区粤海街道科技园大冲新城花园...
+price: 360
+img: https://image.xiaozhustatic1.com/21/11,0,76,10593,260,260,17b23d3a.jpg
+name: 微宿小v
+sex: 男
+
+Counter: 194
+url: http://sz.xiaozhu.com/fangzi/10420557360.html
+Counter: 195
+url: http://sz.xiaozhu.com/fangzi/29656305903.html
+title: 11号线南山站+世界之窗机场深大口岸+投影房
+address: 广东省深圳市南山区南海大厦
+price: 295
+img: https://image.xiaozhustatic1.com/21/13,0,55,6418,329,329,0973b57c.jpg
+name: 谢登帆
+sex: 男
+
+Counter: 196
+url: http://sz.xiaozhu.com/fangzi/28509589101.html
+title: 近深圳北和华为/坂田地铁口/阳光舒适大床房B
+address: 广东省深圳市龙岗区坂田布龙路儒骏城立方
+price: 138
+img: https://image.xiaozhustatic1.com/21/13,0,78,11754,329,330,7a1101f8.jpg
+name: 爱晒太阳滴鱼
+sex: 男
+
+Counter: 197
+url: http://sz.xiaozhu.com/fangzi/2396059963.html
+title: 时22双地铁整租公寓近深大科技园腾讯
+address: 广东省深圳市南山区南山大道时代骄子大厦
+price: 298
+img: https://image.xiaozhustatic1.com/21/4,0,57,10119,472,472,cbd88997.jpg
+name: kimi公寓
+sex: 女
+
+Counter: 198
+url: http://sz.xiaozhu.com/fangzi/17042211803.html
+title: 322科技园/世界之窗/欢乐谷复式温馨单间
+address: 广东省深圳市南山区大冲城市花园
+price: 208
+img: https://image.xiaozhustatic1.com/21/6,0,20,389,329,329,b391f5d2.jpg
+name: Constancezeng
+sex: 女
+
+Counter: 199
+url: http://sz.xiaozhu.com/fangzi/33362744103.html
+title: 毗邻皇岗口岸赤尾地铁口日式简约风智能家居
+address: 广东省深圳市福田区滨河大道3001号京基御景华城...
+price: 499
+img: https://image.xiaozhustatic1.com/21/15,0,58,2431,260,260,0e64cea6.jpg
+name: 林国衍
+sex: 男
+
+Counter: 200
+url: http://sz.xiaozhu.com/fangzi/32289523203.html
+title: 【湖畔】科学馆地铁大剧院高层电梯清新大床房
+address: 广东省深圳市福田区佳兆业中心
+price: 288
+img: https://image.xiaozhustatic1.com/21/13,0,64,27247,260,260,8c45c538.jpg
+name: 浣花小栈
+sex: 女
+
+Counter: 201
+url: http://sz.xiaozhu.com/fangzi/32246862003.html
+title: 【琉璃】中信广场科学馆地铁站高层电梯大床房
+address: 广东省深圳市福田区佳兆业中心
+price: 268
+img: https://image.xiaozhustatic1.com/21/13,0,64,27247,260,260,8c45c538.jpg
+name: 浣花小栈
+sex: 女
+
+Counter: 202
+url: http://sz.xiaozhu.com/fangzi/9179574363.html
+title: 【分享家】浪漫双人房+福田+梅景站+空中花园
+address: 广东省深圳市福田区绿景虹湾
+price: 238
+img: https://image.xiaozhustatic1.com/21/11,0,29,16149,414,414,c7a87861.jpg
+name: Aimee叶
+sex: 女
+
+Counter: 203
+url: http://sz.xiaozhu.com/fangzi/29538497903.html
+title: M7日系主题房-8近深圳湾青青世界旁商旅首选
+address: 广东省深圳市南山区前海路丽湾大厦
+price: 418
+img: https://image.xiaozhustatic1.com/21/16,0,5,21098,364,363,178e4d5a.jpg
+name: M7精品民宿
+sex: 女
+
+Counter: 204
+url: http://sz.xiaozhu.com/fangzi/15312295303.html
+title: 会展中心近福田口岸购物公园CBD北欧公寓
+address: 广东省深圳市福田区彩田路星河世纪大厦
+price: 368
+img: https://image.xiaozhustatic1.com/21/10,0,76,17831,376,375,9edcf991.jpg
+name: 林欣儿
+sex: 女
+
+Counter: 205
+url: http://sz.xiaozhu.com/fangzi/32247600603.html
+title: 【青云】福田中信城市广场高层地铁电梯商务房
+address: 广东省深圳市福田区佳兆业中心
+price: 298
+img: https://image.xiaozhustatic1.com/21/13,0,64,27247,260,260,8c45c538.jpg
+name: 浣花小栈
+sex: 女
+
+Counter: 206
+url: http://sz.xiaozhu.com/fangzi/26097335101.html
+title: ins小清新北欧两居室（南山中心区）
+address: 广东省深圳市南山区南光城市花园2栋
+price: 468
+img: https://image.xiaozhustatic1.com/21/6,0,39,741,260,260,f0f36ca4.jpg
+name: 胡小花
+sex: 女
+
+Counter: 207
+url: http://sz.xiaozhu.com/fangzi/30612372901.html
+title: 【希腊】高层房 深圳湾口岸科技园
+address: 广东省深圳市南山区南新路1024号阳光科创中心C座...
+price: 458
+img: https://image.xiaozhustatic1.com/21/15,0,5,9863,329,329,93d855ae.jpg
+name: 十八岁的老男孩
+sex: 男
+
+Counter: 208
+url: http://sz.xiaozhu.com/fangzi/8539958063.html
+title: 地铁1号线西乡站上盖高层电梯瑞涵家A单间
+address: 广东省深圳市宝安区西乡大道新湖路口合正汇一城
+price: 118
+img: https://image.xiaozhustatic1.com/21/10,0,45,5289,260,260,a243eb2f.jpg
+name: 瑞涵
+sex: 男
+
+Counter: 209
+url: http://sz.xiaozhu.com/fangzi/32604664103.html
+title: 美寓·罗马假日 蛇口花园城@超赞落地窗/春茧
+address: 广东省深圳市南山区工业九路
+price: 398
+img: https://image.xiaozhustatic1.com/21/15,0,65,2926,270,270,e5491ee0.jpg
+name: 美寓
+sex: 女
+
+Counter: 210
+url: http://sz.xiaozhu.com/fangzi/10102927259.html
+title: 大梅沙东部华侨城复式家庭套房
+address: 广东省深圳市盐田区大梅沙环梅路26号心海伽蓝
+price: 498
+img: https://image.xiaozhustatic1.com/21/11,0,83,5239,260,260,d5811321.jpg
+name: 心海家庭民宿
+sex: 男
+
+Counter: 211
+url: http://sz.xiaozhu.com/fangzi/8746331364.html
+title: Muji风格日式公寓
+address: 广东省深圳市福田区星河世纪B栋
+price: 378
+img: https://image.xiaozhustatic1.com/21/11,0,7,6358,414,414,39c196f8.jpg
+name: katnissx
+sex: 女
+
+Counter: 212
+url: http://sz.xiaozhu.com/fangzi/25138689103.html
+title: 【长租特惠】会展中心 福田口岸 茶涧一居室
+address: 广东省深圳市福田区晨晖家园2栋
+price: 308
+img: https://image.xiaozhustatic1.com/21/12,0,75,13289,414,414,764f5ef9.jpg
+name: 鱼舍
+sex: 男
+
+Counter: 213
+url: http://sz.xiaozhu.com/fangzi/28224226701.html
+title: 舒适家一室一厅近布吉东站木棉湾地铁站
+address: 广东省深圳市龙岗区南岭1983创意小镇
+price: 238
+img: https://image.xiaozhustatic1.com/21/13,0,37,10391,260,260,fc17fed7.jpg
+name: 晓莉的小屋
+sex: 男
+
+Counter: 214
+url: http://sz.xiaozhu.com/fangzi/31358164203.html
+title: 苏西的家|南山地铁站/近海岸城春茧北欧两居室
+address: 广东省深圳市南山区南光城市花园
+price: 398
+img: https://image.xiaozhustatic1.com/21/14,0,62,11307,359,359,9ee9e1ad.jpg
+name: suzy的家
+sex: 女
+
+Counter: 215
+url: http://sz.xiaozhu.com/fangzi/10093997260.html
+title: 福田中心区+温馨大床房+莲花西站
+address: 广东省深圳市福田区香蜜三村
+price: 568
+img: https://image.xiaozhustatic1.com/21/5,0,87,1656,363,363,b3f66d88.jpg
+name: sophia的家
+sex: 女
+
+Counter: 216
+url: http://sz.xiaozhu.com/fangzi/25210264203.html
+title: 深圳北站会展中心福田口岸世界之窗3房日式套房
+address: 广东省深圳市龙华区民治街道民乐地铁B出口梅龙阁...
+price: 579
+img: https://image.xiaozhustatic1.com/21/13,0,43,15090,260,260,a58bee57.jpg
+name: Home123民宿
+sex: 女
+
+Counter: 217
+url: http://sz.xiaozhu.com/fangzi/7018801215.html
+title: 罗湖口岸/万象城/大剧院站/阳光双人卧室2
+address: 广东省深圳市罗湖区金塘路48号蔡屋围丽晶大厦北...
+price: 169
+img: https://image.xiaozhustatic1.com/21/8,0,2,9234,498,498,36e2c61e.jpg
+name: daixi8076
+sex: 女
+
+Counter: 218
+url: http://sz.xiaozhu.com/fangzi/1724101135.html
+title: 【世界之窗】MT-HOUSE 艺术公寓
+address: 广东省深圳市南山区沙河世纪假日广场
+price: 468
+img: https://image.xiaozhustatic1.com/21/4,0,92,7922,375,375,36b7f471.jpg
+name: MT_HOUSE
+sex: 女
+
+Counter: 219
+url: http://sz.xiaozhu.com/fangzi/24654195603.html
+title: 福田高铁站香蜜湖购物公园特区报社两房
+address: 广东省深圳市福田区新闻路五洲星苑
+price: 458
+img: https://image.xiaozhustatic1.com/21/12,0,41,11980,260,260,75b216e4.jpg
+name: zhangmingli
+sex: 女
+
+Counter: 220
+url: http://sz.xiaozhu.com/fangzi/14133965003.html
+title: 东门老街～地铁口～【日式风格】小鹿屋
+address: 广东省深圳市罗湖区深南东路2118号港澳8号
+price: 288
+img: https://image.xiaozhustatic1.com/21/15,0,80,19041,375,375,cf54c353.jpg
+name: 小鹿家
+sex: 女
+
+Counter: 221
+url: http://sz.xiaozhu.com/fangzi/33676311203.html
+title: 民风情复式两房、清湖地铁站
+address: 广东省深圳市龙华区贤华名苑
+price: 319
+img: https://image.xiaozhustatic1.com/21/16,0,84,34719,376,375,e00696a7.jpg
+name: 山山小菜
+sex: 女
+
+Counter: 222
+url: http://sz.xiaozhu.com/fangzi/32935284801.html
+title: 【绿洲】高层房 深圳湾口岸科技园
+address: 广东省深圳市南山区南新路1024号阳光科创中心C座...
+price: 408
+img: https://image.xiaozhustatic1.com/21/15,0,5,9863,329,329,93d855ae.jpg
+name: 十八岁的老男孩
+sex: 男
+
+Counter: 223
+url: http://sz.xiaozhu.com/fangzi/15925517701.html
+title: 会展中心365米福田口岸双地铁大两室一厅珊瑚
+address: 广东省深圳市福田区皇岗街道皇庭世纪
+price: 528
+img: https://image.xiaozhustatic1.com/21/16,0,3,13057,363,363,9cf61d1d.jpg
+name: OneCity_壹壹
+sex: 女
+
+Counter: 224
+url: http://sz.xiaozhu.com/fangzi/8745433764.html
+title: 明朝那间房
+address: 广东省深圳市福田区星河世纪B栋
+price: 388
+img: https://image.xiaozhustatic1.com/21/11,0,7,6358,414,414,39c196f8.jpg
+name: katnissx
+sex: 女
+
+Counter: 225
+url: http://sz.xiaozhu.com/fangzi/10471627960.html
+title: A2福田站购物公园站平安金融中心会展中心花园
+address: 广东省深圳市福田区中海华庭
+price: 398
+img: https://image.xiaozhustatic1.com/21/14,0,11,23743,363,363,887582e0.jpg
+name: evernina
+sex: 女
+
+Counter: 226
+url: http://sz.xiaozhu.com/fangzi/27530061203.html
+title: 复式Loft 南山中心/深圳湾口岸/南油批发
+address: 广东省深圳市南山区南新路与东滨路交汇处
+price: 498
+img: https://image.xiaozhustatic1.com/21/14,0,43,2544,375,375,b6b6dd8b.jpg
+name: _宅一起_
+sex: 男
+
+Counter: 227
+url: http://sz.xiaozhu.com/fangzi/25291460803.html
+Counter: 228
+url: http://sz.xiaozhu.com/fangzi/21525404603.html
+title: （微风）CBD福田口岸会展中心双地铁一房一厅
+address: 广东省深圳市福田区金怡华庭
+price: 358
+img: https://image.xiaozhustatic1.com/21/11,0,1,14015,321,320,3c3193c3.jpg
+name: 微风Breeze
+sex: 女
+
+Counter: 229
+url: http://sz.xiaozhu.com/fangzi/29095291003.html
+title: 深圳北INS套房整租, 近福田口岸会展中心
+address: 广东省深圳市龙华区民康路
+price: 199
+img: https://image.xiaozhustatic1.com/21/12,0,76,9785,260,260,bf8cfb82.jpg
+name: 菜菜小居
+sex: 女
+
+Counter: 230
+url: http://sz.xiaozhu.com/fangzi/10671316759.html
+title: 3号线木棉湾/佳兆业/深圳东站/整租两房
+address: 广东省深圳市龙岗区政清路6号布吉中心花园
+price: 458
+img: https://image.xiaozhustatic1.com/21/12,0,34,11466,329,329,4950e2a0.jpg
+name: 绽放DeHome
+sex: 女
+
+Counter: 231
+url: http://sz.xiaozhu.com/fangzi/24584269403.html
+title: 萌[初心]福田口岸会展中心直达北站温馨两居室
+address: 广东省深圳市福田区金地名津
+price: 418
+img: https://image.xiaozhustatic1.com/21/12,0,74,12181,260,260,22978d59.jpg
+name: 萌宿
+sex: 女
+
+Counter: 232
+url: http://sz.xiaozhu.com/fangzi/22047001903.html
+title: cococity地铁四号线近深圳北直达香港房
+address: 广东省深圳市龙华区星河盛世
+price: 379
+img: https://image.xiaozhustatic1.com/21/12,0,9,18501,363,363,b6be0137.jpg
+name: tx3527
+sex: 女
+
+Counter: 233
+url: http://sz.xiaozhu.com/fangzi/9983853859.html
+title: 宝安中心壹方城 宝体/翻身地铁近科技园 机场
+address: 广东省深圳市宝安区48区宝安大道金成名苑金芷阁
+price: 108
+img: https://image.xiaozhustatic1.com/21/14,0,61,7042,329,329,8a6ee9fc.jpg
+name: desertshore
+sex: 女
+
+Counter: 234
+url: http://sz.xiaozhu.com/fangzi/5731198013.html
+title: 看得见大海和青山，有书相伴的温馨小屋
+address: 广东省深圳市盐田区小梅沙海琴道58号红星海岸揽...
+price: 568
+img: https://image.xiaozhustatic1.com/21/8,0,41,4552,334,334,0edf0427.jpg
+name: JIM504
+sex: 男
+
+Counter: 235
+url: http://sz.xiaozhu.com/fangzi/21281486003.html
+title: 「U5」桃园/南山站近深大/海岸城日式公寓
+address: 广东省深圳市南山区南山大道2028号时代骄子大厦
+price: 345
+img: https://image.xiaozhustatic1.com/21/11,0,53,9947,186,186,54336626.jpg
+name: U家小居
+sex: 男
+
+Counter: 236
+url: http://sz.xiaozhu.com/fangzi/33501910503.html
+title: 深圳福田会展中心福田口岸购物公园欧美风独立房
+address: 广东省深圳市福田区石厦北三街东南方国际广场
+price: 316
+img: https://image.xiaozhustatic1.com/21/15,0,65,23064,260,260,64624182.jpg
+name: HensonKowk
+sex: 男
+
+Counter: 237
+url: http://sz.xiaozhu.com/fangzi/9886663060.html
+title: room1「繁里」双地铁乘换站的小清新公寓
+address: 广东省深圳市龙岗区龙岗大道大都汇大厦
+price: 308
+img: https://image.xiaozhustatic1.com/21/12,0,97,24740,329,330,20d1b415.jpg
+name: JianP
+sex: 男
+
+Counter: 238
+url: http://sz.xiaozhu.com/fangzi/9733590964.html
+title: 【金秋家】宝安中心区+翻身地铁口+独立小卧
+address: 广东省深圳市宝安区自由路泰华俊庭
+price: 148
+img: https://image.xiaozhustatic1.com/21/9,0,62,6476,260,260,252795c5.jpg
+name: 露西老师
+sex: 女
+
+Counter: 239
+url: http://sz.xiaozhu.com/fangzi/25137096803.html
+title: 福田CBD双床轻奢套房
+address: 广东省深圳市福田区彩田路星河世纪大厦B栋
+price: 448
+img: https://image.xiaozhustatic1.com/21/11,0,7,6358,414,414,39c196f8.jpg
+name: katnissx
+sex: 女
+
+Counter: 240
+url: http://sz.xiaozhu.com/fangzi/12228587302.html
+title: 福田车公庙、下沙两房一厅高层海景商旅公寓
+address: 广东省深圳市福田区沙头街道下沙花好园
+price: 488
+img: https://image.xiaozhustatic1.com/21/9,0,5,16399,320,320,580924f2.jpg
+name: rachelyu
+sex: 女
+
+Counter: 241
+url: http://sz.xiaozhu.com/fangzi/17026928403.html
+title: 位于福田CBD区的高层海景瓜瓜空间
+address: 广东省深圳市福田区新洲三街13号祥云天都世纪A栋...
+price: 338
+img: https://image.xiaozhustatic1.com/21/10,0,30,8747,329,329,63129553.jpg
+name: 瓜瓜共享读书公寓
+sex: 女
+
+Counter: 242
+url: http://sz.xiaozhu.com/fangzi/3426098329.html
+title: 高新园地铁站/万象天地对面/带独立卫生间单间
+address: 广东省深圳市南山区铜鼓路
+price: 238
+img: https://image.xiaozhustatic1.com/21/6,0,20,389,329,329,b391f5d2.jpg
+name: Constancezeng
+sex: 女
+
+Counter: 243
+url: http://sz.xiaozhu.com/fangzi/31786077401.html
+title: 深圳北站25平米套间近福田口岸会展中心
+address: 广东省深圳市龙华区民康路蓝坤大厦后面
+price: 199
+img: https://image.xiaozhustatic1.com/21/11,0,44,16072,260,260,cec89915.jpg
+name: 名墅一品
+sex: 男
+
+Counter: 244
+url: http://sz.xiaozhu.com/fangzi/7986583915.html
+title: 大白喜来登公寓（一房一厅，50平）
+address: 广东省深圳市福田区保税区桂花路5号福朋喜来登酒...
+price: 439
+img: https://image.xiaozhustatic1.com/21/7,0,11,10503,260,260,e331e06e.jpg
+name: 大白之家
+sex: 男
+
+Counter: 245
+url: http://sz.xiaozhu.com/fangzi/26814106001.html
+title: 近香港/华为基地/深圳北，无敌窗景ins风
+address: 广东省深圳市龙岗区坂田德润荣君府4A
+price: 268
+img: https://image.xiaozhustatic1.com/21/13,0,0,8275,363,363,8941f823.jpg
+name: NGhome
+sex: 男
+
+Counter: 246
+url: http://sz.xiaozhu.com/fangzi/32029163001.html
+title: 南山地铁/深圳湾/蛇口/深大 日式大床单间
+address: 广东省深圳市南山区现代城华庭
+price: 168
+img: https://image.xiaozhustatic1.com/21/14,0,9,28552,375,376,ebbc530a.jpg
+name: Duan_Z
+sex: 女
+
+Counter: 247
+url: http://sz.xiaozhu.com/fangzi/14603166603.html
+title: 【森小林】宝安中心区/近壹方城/韩系风可做饭
+address: 广东省深圳市宝安区泰华君逸世家C座
+price: 358
+img: https://image.xiaozhustatic1.com/21/13,0,10,9662,283,283,de60a12b.jpg
+name: 任可爱
+sex: 女
+
+Counter: 248
+url: http://sz.xiaozhu.com/fangzi/19733544803.html
+title: 罗湖文锦东门.国贸.万象城现代简约温馨公寓
+address: 广东省深圳市罗湖区春风路
+price: 338
+img: https://image.xiaozhustatic1.com/21/11,0,16,15168,363,363,34714ecf.jpg
+name: ervincheng
+sex: 男
+
+Counter: 249
+url: http://sz.xiaozhu.com/fangzi/24107543901.html
+title: 『如归』龙岗近大芬布澜路甘坑小镇 整套大两室
+address: 广东省深圳市龙岗区金达豪花园
+price: 389
+img: https://image.xiaozhustatic1.com/21/12,0,10,20162,260,260,df0352fe.jpg
+name: loyeve
+sex: 女
+
+Counter: 250
+url: http://sz.xiaozhu.com/fangzi/28650413603.html
+title: 地铁口花园小区 地中海风情超大两居整租
+address: 广东省深圳市龙岗区布吉大芬地铁口
+price: 398
+img: https://image.xiaozhustatic1.com/21/6,0,71,3965,228,228,2270510b.jpg
+name: 阿黛家
+sex: 女
+
+Counter: 251
+url: http://sz.xiaozhu.com/fangzi/22797778601.html
+title: 【设计师的家】欧式单人房，直达深圳北，华为
+address: 广东省深圳市龙岗区四季花城
+price: 118
+img: https://image.xiaozhustatic1.com/21/12,0,90,3669,375,376,20c21ba3.jpg
+name: 小鹿之家花城
+sex: 女
+
+Counter: 252
+url: http://sz.xiaozhu.com/fangzi/27786609601.html
+title: 【森小林】宝安中心温暖日式风/机场20分钟
+address: 广东省深圳市宝安区新安街道泰华君逸世家C座
+price: 348
+img: https://image.xiaozhustatic1.com/21/13,0,10,9662,283,283,de60a12b.jpg
+name: 任可爱
+sex: 女
+
+Counter: 253
+url: http://sz.xiaozhu.com/fangzi/10797271760.html
+title: 珠宝之家     田贝地铁站附近简约温馨两居
+address: 广东省深圳市罗湖区水贝二路泊林花园
+price: 466
+img: https://image.xiaozhustatic1.com/21/9,0,51,13017,363,363,94be5cea.jpg
+name: 梅梅笑
+sex: 女
+
+Counter: 254
+url: http://sz.xiaozhu.com/fangzi/9065032464.html
+title: 万象城对面城市天温馨一房一厅
+address: 广东省深圳市罗湖区宝安南路与嘉宾路交汇处的城...
+price: 268
+img: https://image.xiaozhustatic1.com/21/9,0,19,3702,260,260,34e98ad0.jpg
+name: 馨雅阁酒店式公寓
+sex: 男
+
+Counter: 255
+url: http://sz.xiaozhu.com/fangzi/33671082201.html
+title: 在家既家深圳北清湖富士康幸福城出差旅游3居室
+address: 广东省深圳市龙华区幸福城3期11栋
+price: 398
+img: https://image.xiaozhustatic1.com/21/16,0,72,16105,260,260,7cd27d44.jpg
+name: 壮家阿峰哥159
+sex: 男
+
+Counter: 256
+url: http://sz.xiaozhu.com/fangzi/33602224403.html
+title: 民乐地铁站/度假风两房/直达深圳北站福田口岸
+address: 广东省深圳市龙华区梅龙阁
+price: 409
+img: https://image.xiaozhustatic1.com/21/16,0,84,34719,376,375,e00696a7.jpg
+name: 山山小菜
+sex: 女
+
+Counter: 257
+url: http://sz.xiaozhu.com/fangzi/27955452703.html
+title: 【寓荐】新房源 福田口岸保税区近香港商务轻奢
+address: 广东省深圳市福田区加福广场华尔登府邸
+price: 398
+img: https://image.xiaozhustatic1.com/21/13,0,76,8303,260,260,48e880ec.jpg
+name: 寓荐民宿
+sex: 女
+
+Counter: 258
+url: http://sz.xiaozhu.com/fangzi/1395747135.html
+title: 大梅沙87平米大套房家庭式公寓
+address: 广东省深圳市盐田区云顶天海
+price: 288
+img: https://image.xiaozhustatic1.com/21/13,0,84,13046,414,415,2f5d3d59.jpg
+name: speed525
+sex: 男
+
+Counter: 259
+url: http://sz.xiaozhu.com/fangzi/24657253703.html
+title: 福田中心区#深国投#香蜜湖#地铁直达世界之窗
+address: 广东省深圳市福田区香蜜时代
+price: 358
+img: https://image.xiaozhustatic1.com/21/12,0,64,14568,375,375,05f8ddb0.jpg
+name: 虾米121
+sex: 女
+
+Counter: 260
+url: http://sz.xiaozhu.com/fangzi/32074422203.html
+title: 长租月租罗湖口岸一室一厅清新浪漫公寓双床房
+address: 广东省深圳市罗湖区沿河南路汇泰大厦B栋
+price: 288
+img: https://image.xiaozhustatic1.com/21/13,0,10,6834,260,260,050336a5.jpg
+name: 石shi_
+sex: 女
+
+Counter: 261
+url: http://sz.xiaozhu.com/fangzi/6463879416.html
+title: 市中心福田香蜜侨香双地铁温暖家居单独房间
+address: 广东省深圳市福田区侨香路侨香公馆
+price: 199
+img: https://image.xiaozhustatic1.com/21/11,0,20,11685,260,260,beafdbc9.jpg
+name: jingxiang_1314
+sex: 女
+
+Counter: 262
+url: http://sz.xiaozhu.com/fangzi/13669971402.html
+title: 11号机场线南山站近海岸城独立卫浴主卧#有猫
+address: 广东省深圳市南山区南新路与桂庙路交汇处
+price: 188
+img: https://image.xiaozhustatic1.com/21/10,0,75,18521,376,375,d3f9d7d4.jpg
+name: 三花四喜
+sex: 女
+
+Counter: 263
+url: http://sz.xiaozhu.com/fangzi/25092907703.html
+title: 福田口岸福民地铁站水围新村公主风大床房带投影
+address: 广东省深圳市福田区晨晖家园1栋
+price: 268
+img: https://image.xiaozhustatic1.com/21/13,0,71,2341,375,376,1ad6ed30.jpg
+name: 番薯大伯
+sex: 男
+
+Counter: 264
+url: http://sz.xiaozhu.com/fangzi/20117531301.html
+title: 万象天地科技园高新园地铁口微宿北欧一房一厅
+address: 广东省深圳市南山区粤海街道科技园大冲新城花园...
+price: 365
+img: https://image.xiaozhustatic1.com/21/11,0,76,10593,260,260,17b23d3a.jpg
+name: 微宿小v
+sex: 男
+
+Counter: 265
+url: http://sz.xiaozhu.com/fangzi/658478301.html
+title: 【婷婷家】香蜜湖地铁望海 精装两房公寓
+address: 广东省深圳市福田区香蜜湖侨香路2026号香蜜时代
+price: 458
+img: https://image.xiaozhustatic1.com/21/1,0,23,6404,375,375,5130b9c8.jpg
+name: TT_Liu
+sex: 女
+
+Counter: 266
+url: http://sz.xiaozhu.com/fangzi/3654245529.html
+title: 喜客屋科技园1号线地铁口英伦风商务大床房
+address: 广东省深圳市南山区铜鼓路华润城
+price: 308
+img: https://image.xiaozhustatic1.com/21/6,0,57,5210,303,303,e0f68802.jpg
+name: hulun123
+sex: 女
+
+Counter: 267
+url: http://sz.xiaozhu.com/fangzi/33913272303.html
+title: 世界之窗高端两房地铁口@C.BD艺术屋
+address: 广东省深圳市南山区深圳湾畔花园
+price: 598
+img: https://image.xiaozhustatic1.com/21/14,0,6,4182,414,415,2d1060d3.jpg
+name: 海归小姐姐
+sex: 女
+
+Counter: 268
+url: http://sz.xiaozhu.com/fangzi/11478953660.html
+title: 大鹏玫瑰海岸别墅小区花园洋房
+address: 广东省深圳市龙岗区葵涌土洋承翰半山海花园1栋
+price: 398
+img: https://image.xiaozhustatic1.com/21/11,0,99,2923,295,294,f618d8b2.jpg
+name: 胥晓珺
+sex: 男
+
+Counter: 269
+url: http://sz.xiaozhu.com/fangzi/24592356003.html
+title: 近深圳北 会展中心 福田口岸高层整租近地铁口
+address: 广东省深圳市龙华区大道3号梅陇阁
+price: 398
+img: https://image.xiaozhustatic1.com/21/12,0,86,11680,718,924,d640fe39.jpg
+name: 自由居_深圳北
+sex: 女
+
+Counter: 270
+url: http://sz.xiaozhu.com/fangzi/6449248016.html
+title: 近深圳东站/天虹商场/生活交通便利/整租两房
+address: 广东省深圳市龙岗区布吉镇吉政路58号怡和园小区
+price: 378
+img: https://image.xiaozhustatic1.com/21/12,0,34,11466,329,329,4950e2a0.jpg
+name: 绽放DeHome
+sex: 女
+
+Counter: 271
+url: http://sz.xiaozhu.com/fangzi/31793040603.html
+title: 深圳南澳东涌解放区地中海海景双床房(近海滩)
+address: 广东省深圳市大鹏新区东涌冲街村解放区地中海客...
+price: 198
+img: https://image.xiaozhustatic1.com/21/15,0,5,33566,260,260,168a67f5.jpg
+name: 爱尚彩虹
+sex: 男
+
+Counter: 272
+url: http://sz.xiaozhu.com/fangzi/10397423659.html
+title: 3号线木棉湾/东站/南北通透大客厅大沙发合租
+address: 广东省深圳市龙岗区政清路6号布吉中心花园
+price: 68
+img: https://image.xiaozhustatic1.com/21/12,0,34,11466,329,329,4950e2a0.jpg
+name: 绽放DeHome
+sex: 女
+
+Counter: 273
+url: http://sz.xiaozhu.com/fangzi/30987007603.html
+title: 香蕉宿#景田地铁近卓越汇市民、会展中心二房
+address: 广东省深圳市福田区万托家园
+price: 530
+img: https://image.xiaozhustatic1.com/21/11,0,97,10414,414,415,0ed1440a.jpg
+name: 香蕉宿小助手
+sex: 男
+
+Counter: 274
+url: http://sz.xiaozhu.com/fangzi/2206732193.html
+title: 中洲之家—环中线灵芝地铁站豪华舒适大床房整租
+address: 广东省深圳市宝安区创业二路中洲华府一期
+price: 148
+img: https://image.xiaozhustatic1.com/21/6,0,65,4160,260,260,303700c0.jpg
+name: 续小姐
+sex: 女
+
+Counter: 275
+url: http://sz.xiaozhu.com/fangzi/28705434103.html
+title: 深圳北地铁套房整租  近会展中心 福田口岸
+address: 广东省深圳市龙华区民康路
+price: 199
+img: https://image.xiaozhustatic1.com/21/12,0,76,9785,260,260,bf8cfb82.jpg
+name: 菜菜小居
+sex: 女
+
+Counter: 276
+url: http://sz.xiaozhu.com/fangzi/33990275403.html
+title: 罗湖关口/火车站/双地铁近港北欧一居室4人间
+address: 广东省深圳市罗湖区火车东广场人民南双城世纪
+price: 268
+img: https://image.xiaozhustatic1.com/21/13,0,10,6834,260,260,050336a5.jpg
+name: 石shi_
+sex: 女
+
+Counter: 277
+url: http://sz.xiaozhu.com/fangzi/5355342714.html
+title: 【晚秋】世界之窗欢乐谷美式乡村两房
+address: 广东省深圳市南山区沙河世纪假日广场
+price: 558
+img: https://image.xiaozhustatic1.com/21/13,0,99,12272,260,260,e02da77d.jpg
+name: 深圳浣花堂
+sex: 女
+
+Counter: 278
+url: http://sz.xiaozhu.com/fangzi/16206789601.html
+title: 372世界之窗/欢乐谷/科技园复式独卫单间
+address: 广东省深圳市南山区大冲城市花园
+price: 238
+img: https://image.xiaozhustatic1.com/21/6,0,20,389,329,329,b391f5d2.jpg
+name: Constancezeng
+sex: 女
+
+Counter: 279
+url: http://sz.xiaozhu.com/fangzi/28763759003.html
+title: 罗湖口岸东门国贸双地铁高楼层带投影仪一房
+address: 广东省深圳市罗湖区春风路3045号
+price: 328
+img: https://image.xiaozhustatic1.com/21/14,0,8,20442,329,329,33ca7506.jpg
+name: Miss三次方|D
+sex: 女
+
+Counter: 280
+url: http://sz.xiaozhu.com/fangzi/13263184802.html
+title: 地铁零距离，宝体，宝安双地铁口，大床阳光房W
+address: 广东省深圳市宝安区罗田路幸福海岸5栋
+price: 155
+img: https://image.xiaozhustatic1.com/21/8,0,9,5497,326,326,06339933.jpg
+name: lrenhrdb
+sex: 女
+
+Counter: 281
+url: http://sz.xiaozhu.com/fangzi/25270779503.html
+title: 福田口岸+会展中心，清凉简约一居室
+address: 广东省深圳市福田区皇岗公园一街一号
+price: 248
+img: https://image.xiaozhustatic1.com/21/12,0,57,2765,260,260,35a46e50.jpg
+name: 构造家
+sex: 男
+
+Counter: 282
+url: http://sz.xiaozhu.com/fangzi/31065824303.html
+title: 大冲新城花园大单间
+address: 广东省深圳市南山区大冲新城花园
+price: 318
+img: https://image.xiaozhustatic1.com/21/6,0,20,389,329,329,b391f5d2.jpg
+name: Constancezeng
+sex: 女
+
+Counter: 283
+url: http://sz.xiaozhu.com/fangzi/4710432613.html
+title: 福田CBD温馨大客厅舒适沙发位背包客之家
+address: 广东省深圳市福田区彩田路岗厦D出口福源大厦
+price: 98
+img: https://image.xiaozhustatic1.com/21/12,0,56,3822,265,265,428fa2cd.jpg
+name: 一一宝贝之家
+sex: 女
+
+Counter: 284
+url: http://sz.xiaozhu.com/fangzi/33133002403.html
+title: 【仲夏】会展中心附近石厦地铁高层一居豪华套房
+address: 广东省深圳市福田区星座传奇
+price: 398
+img: https://image.xiaozhustatic1.com/21/13,0,99,12272,260,260,e02da77d.jpg
+name: 深圳浣花堂
+sex: 女
+
+Counter: 285
+url: http://sz.xiaozhu.com/fangzi/32711809503.html
+title: 【静谧】深圳湾世界之窗海上世界蛇口港
+address: 广东省深圳市南山区太子路水湾1979
+price: 338
+img: https://image.xiaozhustatic1.com/21/15,0,40,20131,329,329,b8c4295b.jpg
+name: 栖湾公寓
+sex: 女
+
+Counter: 286
+url: http://sz.xiaozhu.com/fangzi/6428198216.html
+title: 福田中心区+温馨大床房+莲花西站
+address: 广东省深圳市福田区时代华庭小区华庭轩栋
+price: 238
+img: https://image.xiaozhustatic1.com/21/5,0,87,1656,363,363,b3f66d88.jpg
+name: sophia的家
+sex: 女
+
+Counter: 287
+url: http://sz.xiaozhu.com/fangzi/31098921003.html
+title: 清湖站近深圳北站直达福田口岸贤华名苑复式两房
+address: 广东省深圳市龙华区清湖路贤华名苑
+price: 328
+img: https://image.xiaozhustatic1.com/21/16,0,84,34719,376,375,e00696a7.jpg
+name: 山山小菜
+sex: 女
+
+Counter: 288
+url: http://sz.xiaozhu.com/fangzi/9098522663.html
+title: 罗湖口岸/万象城/大剧院站阳光双人大床3
+address: 广东省深圳市罗湖区金塘路48号蔡屋围丽晶大厦北...
+price: 169
+img: https://image.xiaozhustatic1.com/21/8,0,2,9234,498,498,36e2c61e.jpg
+name: daixi8076
+sex: 女
+
+Counter: 289
+url: http://sz.xiaozhu.com/fangzi/9197390864.html
+title: 【花田】世界之窗欢乐谷雅致两房
+address: 广东省深圳市南山区沙河世纪假日广场
+price: 598
+img: https://image.xiaozhustatic1.com/21/13,0,99,12272,260,260,e02da77d.jpg
+name: 深圳浣花堂
+sex: 女
+
+Counter: 290
+url: http://sz.xiaozhu.com/fangzi/25245273703.html
+title: 福田高铁站香蜜湖特区报社阳光充沛大床房整租
+address: 广东省深圳市福田区新闻路
+price: 358
+img: https://image.xiaozhustatic1.com/21/12,0,41,11980,260,260,75b216e4.jpg
+name: zhangmingli
+sex: 女
+
+Counter: 291
+url: http://sz.xiaozhu.com/fangzi/3351257229.html
+title: 喜客屋 罗宝1号线高新园B出口温馨浪漫套房
+address: 广东省深圳市南山区铜鼓路华润城
+price: 368
+img: https://image.xiaozhustatic1.com/21/6,0,57,5210,303,303,e0f68802.jpg
+name: hulun123
+sex: 女
+
+Counter: 292
+url: http://sz.xiaozhu.com/fangzi/28875404203.html
+title: 东部华侨城/大梅沙海滨阳台loft
+address: 广东省深圳市盐田区盐梅路60号水云间公寓
+price: 589
+img: https://image.xiaozhustatic1.com/21/12,0,3,12858,375,375,f5c4e082.jpg
+name: Leeclew2008
+sex: 男
+
+Counter: 293
+url: http://sz.xiaozhu.com/fangzi/26849573103.html
+title: 福田口岸/会展中心 高层景观公寓家庭房
+address: 广东省深圳市福田区加福广场A座
+price: 428
+img: https://image.xiaozhustatic1.com/21/12,0,55,14493,364,363,84d42a18.jpg
+name: 晶悦高级商务公寓
+sex: 女
+
+Counter: 294
+url: http://sz.xiaozhu.com/fangzi/30258600403.html
+title: 走路3分钟过关到香港罗湖口岸两房一厅双地铁口
+address: 广东省深圳市罗湖区德兴大厦
+price: 298
+img: https://image.xiaozhustatic1.com/21/12,0,42,18060,260,260,826c6b1b.jpg
+name: 炼金剑圣
+sex: 男
+
+Counter: 295
+url: http://sz.xiaozhu.com/fangzi/30879151901.html
+title: 海岸城保利剧院深圳湾世界之窗高清投影PUBG
+address: 广东省深圳市南山区佳嘉豪苑
+price: 538
+img: https://image.xiaozhustatic1.com/21/14,0,61,4036,364,363,3a465218.jpg
+name: lynnes
+sex: 男
+
+Counter: 296
+url: http://sz.xiaozhu.com/fangzi/22425525101.html
+title: 【北欧小屋】世界之窗欢乐谷华侨城单间双人床
+address: 广东省深圳市南山区世界花园樱花居
+price: 288
+img: https://image.xiaozhustatic1.com/21/12,0,68,26000,364,363,2cfee00f.jpg
+name: Tallrabbit
+sex: 女
+
+Counter: 297
+url: http://sz.xiaozhu.com/fangzi/21382115703.html
+title: 南山桃源地铁口温馨大两房
+address: 广东省深圳市南山区时代骄子大厦B座
+price: 468
+img: https://image.xiaozhustatic1.com/21/13,0,71,2341,375,376,1ad6ed30.jpg
+name: 番薯大伯
+sex: 男
+
+Counter: 298
+url: http://sz.xiaozhu.com/fangzi/31804360501.html
+title: 月租长租海雅缤纷城温馨一房近灵芝地铁站
+address: 广东省深圳市宝安区建安一路友和医药
+price: 179
+img: https://image.xiaozhustatic1.com/21/13,0,43,15090,260,260,a58bee57.jpg
+name: Home123民宿
+sex: 女
+
+Counter: 299
+url: http://sz.xiaozhu.com/fangzi/2842303062.html
+title: 大鹏新区近古城、校场尾两房一厅套房
+address: 广东省深圳市大鹏新区中山路与朝飞路交接
+price: 600
+img: https://image.xiaozhustatic1.com/21/6,0,11,1101,363,363,f5cf7a1d.jpg
+name: 宝xin宝
+sex: 女
+
+Counter: 300
+url: http://sz.xiaozhu.com/fangzi/17518583703.html
+title: 莲花西2号线+福田中心区+温馨大床房
+address: 广东省深圳市福田区新洲路长景阁
+price: 9999
+img: https://image.xiaozhustatic1.com/21/5,0,87,1656,363,363,b3f66d88.jpg
+name: sophia的家
+sex: 女
+
